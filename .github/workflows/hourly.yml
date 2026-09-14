@@ -1,0 +1,46 @@
+name: sixdesk hourly
+
+on:
+  schedule:
+    - cron: "5 * * * *"      # a los 5 minutos de cada hora (UTC)
+  workflow_dispatch:         # botón "Run workflow" para lanzarlo a mano
+
+concurrency:
+  group: sixdesk
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Ciclo horario
+        env:
+          LLM_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL || 'https://dashscope-intl.aliyuncs.com/compatible-mode/v1' }}
+          MODEL_WORKERS: ${{ vars.MODEL_WORKERS || 'qwen3.7-plus' }}
+          MODEL_GATE: ${{ vars.MODEL_GATE || 'qwen3.7-max' }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          PAPER: "true"
+          PAPER_EQUITY: ${{ vars.PAPER_EQUITY || '500' }}
+          MIN_VOL24: ${{ vars.MIN_VOL24 || '50000' }}
+          NOTIFY_ALWAYS: ${{ vars.NOTIFY_ALWAYS || '0' }}
+        run: python hourly.py
+      - name: Guardar estado
+        run: |
+          git config user.name "sixdesk-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "ciclo $(date -u +'%Y-%m-%d %H:%M')"
+          git push
