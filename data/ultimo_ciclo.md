@@ -1,6 +1,6 @@
 ```
-Ciclo 4 · 2026-09-15 04:46 UTC · 1450 pares · 101s
-Equity paper: 498.90 € · caja 428.57 € · abiertas 1
-Vigilancia (DIV3 <48h): 44 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: TAO(22h), MX(8h), NBISON(36h), OV(29h), AVAX(22h), 4(24h), NOCK(2h), MSFTON(13h), ASSET(30h), EQIXON(3h), OKLOON(9h), AMGNON(36h), XPR(14h), MOO(20h), MORPHO(21h)
+Ciclo 5 · 2026-09-15 10:01 UTC · 1450 pares · 101s
+Equity paper: 498.52 € · caja 428.57 € · abiertas 1
+Vigilancia (DIV3 <48h): 49 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: TAO(27h), MX(14h), NBISON(41h), OV(35h), AVAX(27h), 4(30h), NOCK(7h), MSFTON(19h), RAY(0h), MORPHO(27h), EQIXON(9h), OKLOON(15h), AMGNON(42h), EEMON(3h), ASSET(36h)
 ```
