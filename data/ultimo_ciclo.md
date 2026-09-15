@@ -1,7 +1,6 @@
 ```
-Ciclo 3 · 2026-09-14 23:51 UTC · 1449 pares · 102s
-Equity paper: 499.81 € · caja 428.57 € · abiertas 1
-Vigilancia (DIV3 <48h): 37 · Setups DIV3→ruptura: 1 · aprobados 1 · rechazados 0
-✅ OWLUSDT @ 0.0007091 · 71.43 € · stop 0.00065946 · obj 0.00081547 · sin LLM: regla pura
-Vigilancia: TAO(17h), MX(3h), NBISON(31h), OV(24h), AVAX(17h), 4(19h), MSFTON(8h), OKLOON(4h), ASSET(25h), AMGNON(31h), XPR(9h), MORPHO(16h), MOO(15h), EGLD(8h), TURBO(4h)
+Ciclo 4 · 2026-09-15 04:46 UTC · 1450 pares · 101s
+Equity paper: 498.90 € · caja 428.57 € · abiertas 1
+Vigilancia (DIV3 <48h): 44 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: TAO(22h), MX(8h), NBISON(36h), OV(29h), AVAX(22h), 4(24h), NOCK(2h), MSFTON(13h), ASSET(30h), EQIXON(3h), OKLOON(9h), AMGNON(36h), XPR(14h), MOO(20h), MORPHO(21h)
 ```

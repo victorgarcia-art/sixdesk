@@ -1,5 +1,5 @@
 {
- "equity_eur": 499.81,
+ "equity_eur": 498.9,
  "cash_eur": 428.57,
  "positions": {
   "OWLUSDT": {
@@ -15,5 +15,5 @@
  },
  "closed": [],
  "lessons": [],
- "cycles": 3
+ "cycles": 4
 }
