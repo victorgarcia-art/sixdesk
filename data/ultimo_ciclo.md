@@ -1,7 +1,7 @@
 ```
-Ciclo 17 · 2026-09-17 16:53 UTC · 1438 pares · 101s
-Equity paper: 494.47 € · caja 423.99 € · abiertas 1
-Vigilancia (DIV3 <48h): 66 · Setups DIV3→ruptura: 1 · aprobados 1 · rechazados 0
-✅ FONEUSDT @ 0.004837 · 70.66 € · stop 0.00449841 · obj 0.00556255 · sin LLM: regla pura
-Vigilancia: XLM(17h), SOLY(2h), AVAX(17h), NXT(22h), AVGOON(15h), SUE(18h), ALABON(40h), FONE(7h), CEGON(20h), MPON(15h), REGNON(12h), QUID(18h), HALON(10h), EWJON(40h), IAUON(45h)
+Ciclo 18 · 2026-09-17 20:13 UTC · 1438 pares · 102s
+Equity paper: 489.37 € · caja 489.37 € · abiertas 0
+Vigilancia (DIV3 <48h): 66 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+⏹ FONEUSDT cerrada por stop -7.48% (-5.28 €)
+Vigilancia: SOLY(6h), XLM(21h), AVAX(21h), NXT(26h), AVGOON(19h), SUE(22h), ALABON(44h), FONE(11h), QUID(22h), CEGON(24h), REGNON(16h), EWJON(44h), MPON(19h), HALON(14h), TLTON(44h)
 ```

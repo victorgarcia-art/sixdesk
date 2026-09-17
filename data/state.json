@@ -1,18 +1,7 @@
 {
- "equity_eur": 494.47,
- "cash_eur": 423.99,
- "positions": {
-  "FONEUSDT": {
-   "qty": 14571.130570896952,
-   "entry_price": 0.004837,
-   "cost_eur": 70.66,
-   "stop_price": 0.0044984099999999996,
-   "target_price": 0.0055625499999999994,
-   "opened_ts": 1789664000742,
-   "thesis": "triple divergencia alcista hace 7h + ruptura por compresión con volumen 2.76σ",
-   "einstein": "sin LLM: regla pura"
-  }
- },
+ "equity_eur": 489.37,
+ "cash_eur": 489.37,
+ "positions": {},
  "closed": [
   {
    "symbol": "OWLUSDT",
@@ -24,8 +13,19 @@
    "opened_ts": 1789429906132,
    "closed_ts": 1789510146119,
    "thesis": "triple divergencia alcista hace 7h + ruptura por compresión con volumen 12.42σ"
+  },
+  {
+   "symbol": "FONEUSDT",
+   "reason": "stop",
+   "entry_price": 0.004837,
+   "exit_price": 0.0044984099999999996,
+   "pnl_eur": -5.28,
+   "pnl_pct": -7.48,
+   "opened_ts": 1789664000742,
+   "closed_ts": 1789676029142,
+   "thesis": "triple divergencia alcista hace 7h + ruptura por compresión con volumen 2.76σ"
   }
  ],
  "lessons": [],
- "cycles": 17
+ "cycles": 18
 }
