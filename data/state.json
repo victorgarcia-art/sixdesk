@@ -1,7 +1,18 @@
 {
- "equity_eur": 494.65,
- "cash_eur": 494.65,
- "positions": {},
+ "equity_eur": 494.47,
+ "cash_eur": 423.99,
+ "positions": {
+  "FONEUSDT": {
+   "qty": 14571.130570896952,
+   "entry_price": 0.004837,
+   "cost_eur": 70.66,
+   "stop_price": 0.0044984099999999996,
+   "target_price": 0.0055625499999999994,
+   "opened_ts": 1789664000742,
+   "thesis": "triple divergencia alcista hace 7h + ruptura por compresión con volumen 2.76σ",
+   "einstein": "sin LLM: regla pura"
+  }
+ },
  "closed": [
   {
    "symbol": "OWLUSDT",
@@ -16,5 +27,5 @@
   }
  ],
  "lessons": [],
- "cycles": 16
+ "cycles": 17
 }

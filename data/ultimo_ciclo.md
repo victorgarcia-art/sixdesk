@@ -1,6 +1,7 @@
 ```
-Ciclo 16 · 2026-09-17 11:35 UTC · 1456 pares · 102s
-Equity paper: 494.65 € · caja 494.65 € · abiertas 0
-Vigilancia (DIV3 <48h): 72 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: KAS(45h), XLM(12h), SOLY(13h), AVAX(12h), NXT(17h), AVGOON(10h), BEON(45h), SUE(13h), ALABON(35h), MYX(31h), FUTUON(16h), FONE(2h), MPON(10h), GLWON(44h), REGNON(7h)
+Ciclo 17 · 2026-09-17 16:53 UTC · 1438 pares · 101s
+Equity paper: 494.47 € · caja 423.99 € · abiertas 1
+Vigilancia (DIV3 <48h): 66 · Setups DIV3→ruptura: 1 · aprobados 1 · rechazados 0
+✅ FONEUSDT @ 0.004837 · 70.66 € · stop 0.00449841 · obj 0.00556255 · sin LLM: regla pura
+Vigilancia: XLM(17h), SOLY(2h), AVAX(17h), NXT(22h), AVGOON(15h), SUE(18h), ALABON(40h), FONE(7h), CEGON(20h), MPON(15h), REGNON(12h), QUID(18h), HALON(10h), EWJON(40h), IAUON(45h)
 ```
