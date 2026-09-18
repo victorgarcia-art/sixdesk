@@ -1,6 +1,6 @@
 ```
-Ciclo 23 · 2026-09-18 18:21 UTC · 1430 pares · 102s
+Ciclo 24 · 2026-09-18 21:37 UTC · 1431 pares · 100s
 Equity paper: 489.37 € · caja 489.37 € · abiertas 0
-Vigilancia (DIV3 <48h): 52 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: XLM(43h), AVAX(43h), SOLY(20h), AVGOON(41h), FONE(33h), REGNON(38h), FUTUON(47h), CEGON(46h), MPON(41h), HALON(36h), NAKA(4h), SUE(44h), MICRODUCK(38h), AZTEC(43h), SUPRA(7h)
+Vigilancia (DIV3 <48h): 51 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: XLM(46h), AVAX(46h), SOLY(23h), AVGOON(44h), FONE(36h), REGNON(41h), MCDON(1h), ADBEON(1h), NOWON(2h), MPON(44h), HALON(39h), NAKA(7h), SUE(47h), SUPRA(10h), AZTEC(46h)
 ```
