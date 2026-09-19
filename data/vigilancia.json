@@ -1,131 +1,138 @@
 {
- "ts": 1789815067825,
+ "ts": 1789827681471,
  "watch": [
   {
-   "symbol": "SOLYUSDT",
-   "div3_hours_ago": 36,
-   "rsi_pivot": 38.7,
-   "vol24": 492552,
-   "price": 0.01473
+   "symbol": "MCDONUSDT",
+   "div3_hours_ago": 18,
+   "rsi_pivot": 56.4,
+   "vol24": 164433,
+   "price": 255.99
   },
   {
    "symbol": "ADBEONUSDT",
-   "div3_hours_ago": 14,
+   "div3_hours_ago": 18,
    "rsi_pivot": 44.8,
-   "vol24": 171532,
-   "price": 247.31
+   "vol24": 162006,
+   "price": 248.43
   },
   {
-   "symbol": "MCDONUSDT",
-   "div3_hours_ago": 14,
-   "rsi_pivot": 56.4,
-   "vol24": 164782,
-   "price": 256.14
+   "symbol": "SPOTONUSDT",
+   "div3_hours_ago": 3,
+   "rsi_pivot": 27.6,
+   "vol24": 148606,
+   "price": 510.65
   },
   {
    "symbol": "NOWONUSDT",
-   "div3_hours_ago": 15,
+   "div3_hours_ago": 19,
    "rsi_pivot": 41.2,
-   "vol24": 146551,
-   "price": 679.82
+   "vol24": 145914,
+   "price": 679.06
+  },
+  {
+   "symbol": "SOLYUSDT",
+   "div3_hours_ago": 40,
+   "rsi_pivot": 38.7,
+   "vol24": 116971,
+   "price": 0.0208
   },
   {
    "symbol": "NAKAUSDT",
-   "div3_hours_ago": 20,
+   "div3_hours_ago": 24,
    "rsi_pivot": 62.6,
-   "vol24": 135117,
-   "price": 0.07772
+   "vol24": 116378,
+   "price": 0.07906
   },
   {
-   "symbol": "SUPRAUSDT",
-   "div3_hours_ago": 23,
-   "rsi_pivot": 45.2,
-   "vol24": 95401,
-   "price": 0.0001656
+   "symbol": "EDGEUSDT",
+   "div3_hours_ago": 0,
+   "rsi_pivot": 37.7,
+   "vol24": 115354,
+   "price": 0.5914
   },
   {
    "symbol": "XAVAUSDT",
-   "div3_hours_ago": 3,
+   "div3_hours_ago": 7,
    "rsi_pivot": 37.9,
-   "vol24": 91834,
-   "price": 0.1609
+   "vol24": 89333,
+   "price": 0.1556
+  },
+  {
+   "symbol": "SUPRAUSDT",
+   "div3_hours_ago": 27,
+   "rsi_pivot": 45.2,
+   "vol24": 88820,
+   "price": 0.000171
   },
   {
    "symbol": "ASTRUSDT",
-   "div3_hours_ago": 37,
+   "div3_hours_ago": 41,
    "rsi_pivot": 41.5,
-   "vol24": 83533,
-   "price": 0.006719
-  },
-  {
-   "symbol": "RICEUSDT",
-   "div3_hours_ago": 46,
-   "rsi_pivot": 49.6,
-   "vol24": 82404,
-   "price": 0.008926
-  },
-  {
-   "symbol": "TMXUSDT",
-   "div3_hours_ago": 0,
-   "rsi_pivot": 39.8,
-   "vol24": 74936,
-   "price": 0.02091
+   "vol24": 82031,
+   "price": 0.006768
   },
   {
    "symbol": "MAJORUSDT",
-   "div3_hours_ago": 12,
+   "div3_hours_ago": 16,
    "rsi_pivot": 45.8,
-   "vol24": 66976,
-   "price": 0.03743
+   "vol24": 70762,
+   "price": 0.03834
+  },
+  {
+   "symbol": "TMXUSDT",
+   "div3_hours_ago": 4,
+   "rsi_pivot": 39.8,
+   "vol24": 68994,
+   "price": 0.02156
   },
   {
    "symbol": "UBIKUSDT",
-   "div3_hours_ago": 36,
+   "div3_hours_ago": 40,
    "rsi_pivot": 42.3,
-   "vol24": 61915,
-   "price": 0.021115
-  },
-  {
-   "symbol": "TLOSUSDT",
-   "div3_hours_ago": 38,
-   "rsi_pivot": 49.3,
-   "vol24": 60512,
-   "price": 0.01611
+   "vol24": 58437,
+   "price": 0.019792
   },
   {
    "symbol": "STREAMUSDT",
-   "div3_hours_ago": 18,
+   "div3_hours_ago": 22,
    "rsi_pivot": 49.7,
-   "vol24": 58748,
-   "price": 0.008037
+   "vol24": 57806,
+   "price": 0.008025
+  },
+  {
+   "symbol": "TBCUSDT",
+   "div3_hours_ago": 3,
+   "rsi_pivot": 42.5,
+   "vol24": 57646,
+   "price": 5.265
+  },
+  {
+   "symbol": "TLOSUSDT",
+   "div3_hours_ago": 42,
+   "rsi_pivot": 49.3,
+   "vol24": 57352,
+   "price": 0.016171
   },
   {
    "symbol": "MCDXUSDT",
-   "div3_hours_ago": 40,
+   "div3_hours_ago": 44,
    "rsi_pivot": 46.6,
-   "vol24": 56578,
-   "price": 254.1
+   "vol24": 55780,
+   "price": 254.33
   },
   {
    "symbol": "MORTYUSDT",
-   "div3_hours_ago": 20,
+   "div3_hours_ago": 24,
    "rsi_pivot": 45.7,
-   "vol24": 56226,
-   "price": 3.812e-05
-  },
-  {
-   "symbol": "UPUSDT",
-   "div3_hours_ago": 45,
-   "rsi_pivot": 38.5,
-   "vol24": 55470,
-   "price": 0.30631
+   "vol24": 55748,
+   "price": 4.095e-05
   },
   {
    "symbol": "DJI6930USDT",
-   "div3_hours_ago": 40,
+   "div3_hours_ago": 44,
    "rsi_pivot": 37.7,
-   "vol24": 52465,
-   "price": 0.004354
+   "vol24": 52965,
+   "price": 0.004404
   }
  ]
 }
