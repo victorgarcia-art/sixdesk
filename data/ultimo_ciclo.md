@@ -1,6 +1,6 @@
 ```
-Ciclo 28 · 2026-09-19 14:21 UTC · 1431 pares · 101s
+Ciclo 29 · 2026-09-19 17:58 UTC · 1435 pares · 99s
 Equity paper: 489.37 € · caja 489.37 € · abiertas 0
 Vigilancia (DIV3 <48h): 19 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: MCDON(18h), ADBEON(18h), SPOTON(3h), NOWON(19h), SOLY(40h), NAKA(24h), EDGE(0h), XAVA(7h), SUPRA(27h), ASTR(41h), MAJOR(16h), TMX(4h), UBIK(40h), STREAM(22h), TBC(3h)
+Vigilancia: SOLY(43h), ADBEON(21h), MCDON(21h), NOWON(22h), SPOTON(6h), EDGE(3h), NAKA(27h), SUPRA(30h), ASTR(44h), XAVA(10h), MAJOR(19h), TMX(7h), TLOS(45h), STREAM(25h), UBIK(43h)
 ```
