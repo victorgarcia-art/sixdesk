@@ -1,68 +1,47 @@
 {
- "ts": 1789929844517,
+ "ts": 1789939767206,
  "watch": [
   {
    "symbol": "SPOTONUSDT",
-   "div3_hours_ago": 21,
+   "div3_hours_ago": 24,
    "rsi_pivot": 42.2,
-   "vol24": 152417,
-   "price": 510.97
-  },
-  {
-   "symbol": "MCDONUSDT",
-   "div3_hours_ago": 46,
-   "rsi_pivot": 56.4,
-   "vol24": 151488,
-   "price": 256.32
-  },
-  {
-   "symbol": "NOWONUSDT",
-   "div3_hours_ago": 47,
-   "rsi_pivot": 41.2,
-   "vol24": 145079,
-   "price": 682.02
-  },
-  {
-   "symbol": "ADBEONUSDT",
-   "div3_hours_ago": 46,
-   "rsi_pivot": 44.8,
-   "vol24": 143637,
-   "price": 247.5
+   "vol24": 156407,
+   "price": 508.67
   },
   {
    "symbol": "EDGEUSDT",
-   "div3_hours_ago": 28,
+   "div3_hours_ago": 31,
    "rsi_pivot": 37.7,
-   "vol24": 109085,
-   "price": 0.5568
+   "vol24": 105066,
+   "price": 0.557
   },
   {
    "symbol": "TMXUSDT",
-   "div3_hours_ago": 32,
-   "rsi_pivot": 39.8,
-   "vol24": 83428,
-   "price": 0.02103
-  },
-  {
-   "symbol": "VPRUSDT",
-   "div3_hours_ago": 21,
-   "rsi_pivot": 42.4,
-   "vol24": 75649,
-   "price": 0.0004699
-  },
-  {
-   "symbol": "XAVAUSDT",
    "div3_hours_ago": 35,
-   "rsi_pivot": 37.9,
-   "vol24": 73453,
-   "price": 0.1635
+   "rsi_pivot": 39.8,
+   "vol24": 80182,
+   "price": 0.02158
   },
   {
    "symbol": "MAJORUSDT",
-   "div3_hours_ago": 44,
+   "div3_hours_ago": 47,
    "rsi_pivot": 45.8,
-   "vol24": 67268,
-   "price": 0.03896
+   "vol24": 78830,
+   "price": 0.03814
+  },
+  {
+   "symbol": "VPRUSDT",
+   "div3_hours_ago": 24,
+   "rsi_pivot": 42.4,
+   "vol24": 74869,
+   "price": 0.0004707
+  },
+  {
+   "symbol": "XAVAUSDT",
+   "div3_hours_ago": 38,
+   "rsi_pivot": 37.9,
+   "vol24": 69242,
+   "price": 0.1654
   }
  ]
 }
