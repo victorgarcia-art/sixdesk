@@ -1,75 +1,68 @@
 {
- "ts": 1789999143167,
+ "ts": 1790018439639,
  "watch": [
   {
    "symbol": "MODAUSDT",
-   "div3_hours_ago": 15,
+   "div3_hours_ago": 21,
    "rsi_pivot": 47.2,
-   "vol24": 3429602,
-   "price": 0.121
+   "vol24": 2901796,
+   "price": 0.37
   },
   {
    "symbol": "EGLDUSDT",
-   "div3_hours_ago": 6,
+   "div3_hours_ago": 12,
    "rsi_pivot": 41.3,
-   "vol24": 310940,
-   "price": 3.763
+   "vol24": 260130,
+   "price": 3.745
   },
   {
    "symbol": "SPOTONUSDT",
-   "div3_hours_ago": 40,
+   "div3_hours_ago": 46,
    "rsi_pivot": 42.2,
-   "vol24": 153459,
-   "price": 514.09
-  },
-  {
-   "symbol": "EDGEUSDT",
-   "div3_hours_ago": 47,
-   "rsi_pivot": 37.7,
-   "vol24": 96089,
-   "price": 0.6062
+   "vol24": 150263,
+   "price": 516.56
   },
   {
    "symbol": "GAIBUSDT",
-   "div3_hours_ago": 5,
+   "div3_hours_ago": 11,
    "rsi_pivot": 52.7,
-   "vol24": 78264,
-   "price": 0.03414
-  },
-  {
-   "symbol": "VPRUSDT",
-   "div3_hours_ago": 14,
-   "rsi_pivot": 46.1,
-   "vol24": 78024,
-   "price": 0.0004749
+   "vol24": 93838,
+   "price": 0.03822
   },
   {
    "symbol": "ASTEROIDUSDT",
-   "div3_hours_ago": 1,
+   "div3_hours_ago": 7,
    "rsi_pivot": 35.4,
-   "vol24": 76939,
-   "price": 1.551e-05
+   "vol24": 93047,
+   "price": 1.598e-05
+  },
+  {
+   "symbol": "VPRUSDT",
+   "div3_hours_ago": 20,
+   "rsi_pivot": 46.1,
+   "vol24": 73562,
+   "price": 0.0004693
   },
   {
    "symbol": "UBIKUSDT",
-   "div3_hours_ago": 6,
+   "div3_hours_ago": 12,
    "rsi_pivot": 35.7,
-   "vol24": 69171,
-   "price": 0.025199
-  },
-  {
-   "symbol": "PROUSDT",
-   "div3_hours_ago": 15,
-   "rsi_pivot": 56.1,
-   "vol24": 64225,
-   "price": 0.3422
+   "vol24": 70865,
+   "price": 0.022593
   },
   {
    "symbol": "ROBINCATUSDT",
-   "div3_hours_ago": 1,
+   "div3_hours_ago": 7,
    "rsi_pivot": 40.0,
-   "vol24": 64078,
-   "price": 0.002488
+   "vol24": 67339,
+   "price": 0.002141
+  },
+  {
+   "symbol": "PROUSDT",
+   "div3_hours_ago": 21,
+   "rsi_pivot": 56.1,
+   "vol24": 62956,
+   "price": 0.3461
   }
  ]
 }

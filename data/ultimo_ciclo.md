@@ -1,7 +1,7 @@
 ```
-Ciclo 40 · 2026-09-21 13:59 UTC · 1427 pares · 99s
-Equity paper: 489.19 € · caja 419.46 € · abiertas 1
-Vigilancia (DIV3 <48h): 10 · Setups DIV3→ruptura: 1 · aprobados 1 · rechazados 0
-✅ UBIKUSDT @ 0.025199 · 69.91 € · stop 0.02343507 · obj 0.02897885 · sin LLM: regla pura
-Vigilancia: MODA(15h), EGLD(6h), SPOTON(40h), EDGE(47h), GAIB(5h), VPR(14h), ASTEROID(1h), UBIK(6h), PRO(15h), ROBINCAT(1h)
+Ciclo 41 · 2026-09-21 19:20 UTC · 1426 pares · 99s
+Equity paper: 484.14 € · caja 484.14 € · abiertas 0
+Vigilancia (DIV3 <48h): 9 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+⏹ UBIKUSDT cerrada por stop -7.48% (-5.23 €)
+Vigilancia: MODA(21h), EGLD(12h), SPOTON(46h), GAIB(11h), ASTEROID(7h), VPR(20h), UBIK(12h), ROBINCAT(7h), PRO(21h)
 ```

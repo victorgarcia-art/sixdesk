@@ -1,18 +1,7 @@
 {
- "equity_eur": 489.19,
- "cash_eur": 419.46,
- "positions": {
-  "UBIKUSDT": {
-   "qty": 2767.103218381682,
-   "entry_price": 0.025199,
-   "cost_eur": 69.91,
-   "stop_price": 0.02343507,
-   "target_price": 0.028978849999999997,
-   "opened_ts": 1789999143167,
-   "thesis": "triple divergencia alcista hace 6h + ruptura por compresión con volumen 15.42σ",
-   "einstein": "sin LLM: regla pura"
-  }
- },
+ "equity_eur": 484.14,
+ "cash_eur": 484.14,
+ "positions": {},
  "closed": [
   {
    "symbol": "OWLUSDT",
@@ -35,8 +24,19 @@
    "opened_ts": 1789664000742,
    "closed_ts": 1789676029142,
    "thesis": "triple divergencia alcista hace 7h + ruptura por compresión con volumen 2.76σ"
+  },
+  {
+   "symbol": "UBIKUSDT",
+   "reason": "stop",
+   "entry_price": 0.025199,
+   "exit_price": 0.02343507,
+   "pnl_eur": -5.23,
+   "pnl_pct": -7.48,
+   "opened_ts": 1789999143167,
+   "closed_ts": 1790018438219,
+   "thesis": "triple divergencia alcista hace 6h + ruptura por compresión con volumen 15.42σ"
   }
  ],
  "lessons": [],
- "cycles": 40
+ "cycles": 41
 }
