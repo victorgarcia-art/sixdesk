@@ -1,68 +1,82 @@
 {
- "ts": 1790052269965,
+ "ts": 1790070808861,
  "watch": [
   {
    "symbol": "MODAUSDT",
-   "div3_hours_ago": 30,
+   "div3_hours_ago": 35,
    "rsi_pivot": 47.2,
-   "vol24": 2700639,
-   "price": 0.3
+   "vol24": 870178,
+   "price": 0.707
   },
   {
    "symbol": "EGLDUSDT",
-   "div3_hours_ago": 21,
+   "div3_hours_ago": 26,
    "rsi_pivot": 41.3,
-   "vol24": 238899,
-   "price": 3.9
+   "vol24": 191674,
+   "price": 3.909
+  },
+  {
+   "symbol": "PYPLONUSDT",
+   "div3_hours_ago": 3,
+   "rsi_pivot": 48.2,
+   "vol24": 152785,
+   "price": 53.15
   },
   {
    "symbol": "IAUONUSDT",
-   "div3_hours_ago": 2,
+   "div3_hours_ago": 7,
    "rsi_pivot": 43.9,
-   "vol24": 153847,
-   "price": 81.62
+   "vol24": 149773,
+   "price": 81.42
   },
   {
    "symbol": "GAIBUSDT",
-   "div3_hours_ago": 20,
+   "div3_hours_ago": 25,
    "rsi_pivot": 52.7,
-   "vol24": 98942,
-   "price": 0.03423
+   "vol24": 96886,
+   "price": 0.0342
   },
   {
    "symbol": "ASTEROIDUSDT",
-   "div3_hours_ago": 16,
+   "div3_hours_ago": 21,
    "rsi_pivot": 35.4,
-   "vol24": 97194,
-   "price": 1.593e-05
+   "vol24": 92864,
+   "price": 1.579e-05
   },
   {
    "symbol": "UBIKUSDT",
-   "div3_hours_ago": 21,
+   "div3_hours_ago": 26,
    "rsi_pivot": 35.7,
-   "vol24": 78681,
-   "price": 0.02197
+   "vol24": 86288,
+   "price": 0.022931
+  },
+  {
+   "symbol": "ARRRUSDT",
+   "div3_hours_ago": 3,
+   "rsi_pivot": 42.0,
+   "vol24": 81081,
+   "price": 0.3056
   },
   {
    "symbol": "VPRUSDT",
-   "div3_hours_ago": 29,
+   "div3_hours_ago": 34,
    "rsi_pivot": 46.1,
-   "vol24": 74095,
-   "price": 0.0004688
+   "vol24": 67225,
+   "price": 0.0004668
   },
   {
    "symbol": "ROBINCATUSDT",
-   "div3_hours_ago": 16,
+   "div3_hours_ago": 21,
    "rsi_pivot": 40.0,
-   "vol24": 67321,
-   "price": 0.002055
+   "vol24": 64982,
+   "price": 0.00207
   },
   {
    "symbol": "PROUSDT",
-   "div3_hours_ago": 30,
+   "div3_hours_ago": 35,
    "rsi_pivot": 56.1,
-   "vol24": 61596,
-   "price": 0.3416
+   "vol24": 62018,
+   "price": 0.3434
   }
  ]
 }
