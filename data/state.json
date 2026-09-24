@@ -1,18 +1,7 @@
 {
- "equity_eur": 483.96,
- "cash_eur": 414.98,
- "positions": {
-  "BLOBUSDT": {
-   "qty": 63.75511433852653,
-   "entry_price": 1.082,
-   "cost_eur": 69.16,
-   "stop_price": 1.00626,
-   "target_price": 1.2443,
-   "opened_ts": 1790206699971,
-   "thesis": "triple divergencia alcista hace 1h + ruptura por compresión con volumen 2.6σ",
-   "einstein": "sin LLM: regla pura"
-  }
- },
+ "equity_eur": 478.97,
+ "cash_eur": 478.97,
+ "positions": {},
  "closed": [
   {
    "symbol": "OWLUSDT",
@@ -46,8 +35,19 @@
    "opened_ts": 1789999143167,
    "closed_ts": 1790018438219,
    "thesis": "triple divergencia alcista hace 6h + ruptura por compresión con volumen 15.42σ"
+  },
+  {
+   "symbol": "BLOBUSDT",
+   "reason": "stop",
+   "entry_price": 1.082,
+   "exit_price": 1.00626,
+   "pnl_eur": -5.17,
+   "pnl_pct": -7.48,
+   "opened_ts": 1790206699971,
+   "closed_ts": 1790224654169,
+   "thesis": "triple divergencia alcista hace 1h + ruptura por compresión con volumen 2.6σ"
   }
  ],
  "lessons": [],
- "cycles": 53
+ "cycles": 54
 }

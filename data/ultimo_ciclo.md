@@ -1,7 +1,7 @@
 ```
-Ciclo 53 · 2026-09-23 23:38 UTC · 1429 pares · 99s
-Equity paper: 483.96 € · caja 414.98 € · abiertas 1
-Vigilancia (DIV3 <48h): 22 · Setups DIV3→ruptura: 1 · aprobados 1 · rechazados 0
-✅ BLOBUSDT @ 1.082 · 69.16 € · stop 1.00626 · obj 1.2443 · sin LLM: regla pura
-Vigilancia: ENA(1h), BLOB(1h), 9BIT(35h), GENIUS(31h), CETUS(3h), XOMON(28h), IAUON(45h), PYPLON(41h), CMGON(33h), NVOON(33h), UDS(45h), GCOIN(36h), OIL(USOON)(21h), EFC(16h), SOCK(1h)
+Ciclo 54 · 2026-09-24 04:37 UTC · 1430 pares · 100s
+Equity paper: 478.97 € · caja 478.97 € · abiertas 0
+Vigilancia (DIV3 <48h): 22 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+⏹ BLOBUSDT cerrada por stop -7.48% (-5.17 €)
+Vigilancia: ENA(6h), BLOB(6h), 9BIT(40h), CETUS(8h), XOMON(33h), GENIUS(36h), PYPLON(46h), NVOON(38h), CMGON(38h), VZON(2h), GCOIN(41h), OIL(USOON)(26h), SOCK(6h), JUGGERNAUT(12h), ARRR(46h)
 ```
