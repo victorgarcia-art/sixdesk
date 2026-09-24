@@ -1,7 +1,18 @@
 {
- "equity_eur": 478.97,
- "cash_eur": 478.97,
- "positions": {},
+ "equity_eur": 478.8,
+ "cash_eur": 410.55,
+ "positions": {
+  "ENAUSDT": {
+   "qty": 312.1261494234098,
+   "entry_price": 0.21865,
+   "cost_eur": 68.42,
+   "stop_price": 0.20334449999999998,
+   "target_price": 0.2514475,
+   "opened_ts": 1790261864601,
+   "thesis": "triple divergencia alcista hace 16h + ruptura por compresión con volumen 2.24σ",
+   "einstein": "sin LLM: regla pura"
+  }
+ },
  "closed": [
   {
    "symbol": "OWLUSDT",
@@ -49,5 +60,5 @@
   }
  ],
  "lessons": [],
- "cycles": 55
+ "cycles": 56
 }
