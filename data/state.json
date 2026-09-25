@@ -1,5 +1,5 @@
 {
- "equity_eur": 479.33,
+ "equity_eur": 486.85,
  "cash_eur": 410.55,
  "positions": {
   "ENAUSDT": {
@@ -60,5 +60,5 @@
   }
  ],
  "lessons": [],
- "cycles": 60
+ "cycles": 61
 }
