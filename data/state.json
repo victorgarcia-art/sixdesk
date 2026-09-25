@@ -1,18 +1,7 @@
 {
- "equity_eur": 486.85,
- "cash_eur": 410.55,
- "positions": {
-  "ENAUSDT": {
-   "qty": 312.1261494234098,
-   "entry_price": 0.21865,
-   "cost_eur": 68.42,
-   "stop_price": 0.20334449999999998,
-   "target_price": 0.2514475,
-   "opened_ts": 1790261864601,
-   "thesis": "triple divergencia alcista hace 16h + ruptura por compresión con volumen 2.24σ",
-   "einstein": "sin LLM: regla pura"
-  }
- },
+ "equity_eur": 488.83,
+ "cash_eur": 488.83,
+ "positions": {},
  "closed": [
   {
    "symbol": "OWLUSDT",
@@ -57,8 +46,19 @@
    "opened_ts": 1790206699971,
    "closed_ts": 1790224654169,
    "thesis": "triple divergencia alcista hace 1h + ruptura por compresión con volumen 2.6σ"
+  },
+  {
+   "symbol": "ENAUSDT",
+   "reason": "objetivo",
+   "entry_price": 0.21865,
+   "exit_price": 0.2514475,
+   "pnl_eur": 9.86,
+   "pnl_pct": 14.41,
+   "opened_ts": 1790261864601,
+   "closed_ts": 1790361085536,
+   "thesis": "triple divergencia alcista hace 16h + ruptura por compresión con volumen 2.24σ"
   }
  ],
  "lessons": [],
- "cycles": 61
+ "cycles": 62
 }
