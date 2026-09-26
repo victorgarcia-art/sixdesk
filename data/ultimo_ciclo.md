@@ -1,6 +1,6 @@
 ```
-Ciclo 64 · 2026-09-26 01:29 UTC · 1392 pares · 98s
+Ciclo 65 · 2026-09-26 07:34 UTC · 1392 pares · 97s
 Equity paper: 488.83 € · caja 488.83 € · abiertas 0
-Vigilancia (DIV3 <48h): 29 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: 龙虾(20h), KII(15h), NXT(7h), PI(13h), UAI(9h), AAPLON(11h), BGB(22h), IEFAON(30h), BULLA(34h), DELLON(23h), ACNON(0h), BACON(30h), QFI(34h), AGRO(23h), BLOB(3h)
+Vigilancia (DIV3 <48h): 31 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: 龙虾(26h), KII(21h), NXT(13h), PI(19h), UAI(15h), AAPLON(17h), BGB(28h), IEFAON(36h), DELLON(29h), BACON(36h), ACNON(6h), BULLA(40h), QFI(40h), AGRO(29h), BLOB(9h)
 ```
