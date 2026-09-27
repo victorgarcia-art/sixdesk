@@ -1,5 +1,5 @@
 {
- "equity_eur": 489.92,
+ "equity_eur": 490.56,
  "cash_eur": 419.0,
  "positions": {
   "BLOBUSDT": {
@@ -71,5 +71,5 @@
   }
  ],
  "lessons": [],
- "cycles": 71
+ "cycles": 72
 }
