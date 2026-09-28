@@ -1,89 +1,75 @@
 {
- "ts": 1790555878873,
+ "ts": 1790577803971,
  "watch": [
   {
    "symbol": "CMEUSDT",
-   "div3_hours_ago": 9,
+   "div3_hours_ago": 15,
    "rsi_pivot": 33.1,
-   "vol24": 180895,
-   "price": 0.0002796
+   "vol24": 161020,
+   "price": 0.0003152
   },
   {
    "symbol": "GIGGLEUSDT",
-   "div3_hours_ago": 3,
+   "div3_hours_ago": 9,
    "rsi_pivot": 35.6,
-   "vol24": 155125,
-   "price": 39.09
+   "vol24": 153092,
+   "price": 37.98
   },
   {
-   "symbol": "ACNONUSDT",
-   "div3_hours_ago": 47,
-   "rsi_pivot": 33.9,
-   "vol24": 145881,
-   "price": 182.34
+   "symbol": "PANWONUSDT",
+   "div3_hours_ago": 4,
+   "rsi_pivot": 44.1,
+   "vol24": 149765,
+   "price": 376.12
   },
   {
    "symbol": "INDEXUSDT",
-   "div3_hours_ago": 6,
+   "div3_hours_ago": 12,
    "rsi_pivot": 34.3,
-   "vol24": 85420,
-   "price": 0.024963
+   "vol24": 94564,
+   "price": 0.0255
   },
   {
    "symbol": "SIRENUSDT",
-   "div3_hours_ago": 4,
+   "div3_hours_ago": 10,
    "rsi_pivot": 45.9,
-   "vol24": 83986,
-   "price": 0.02453
-  },
-  {
-   "symbol": "ZESTUSDT",
-   "div3_hours_ago": 15,
-   "rsi_pivot": 42.8,
-   "vol24": 73785,
-   "price": 0.17765
+   "vol24": 85191,
+   "price": 0.02403
   },
   {
    "symbol": "DCRUSDT",
-   "div3_hours_ago": 39,
+   "div3_hours_ago": 45,
    "rsi_pivot": 37.2,
-   "vol24": 73630,
-   "price": 18.68
+   "vol24": 76396,
+   "price": 18.399
   },
   {
    "symbol": "FATCOINUSDT",
-   "div3_hours_ago": 9,
+   "div3_hours_ago": 15,
    "rsi_pivot": 37.9,
-   "vol24": 73538,
-   "price": 0.0008163
+   "vol24": 74116,
+   "price": 0.0007303
   },
   {
-   "symbol": "CTPUSDT",
-   "div3_hours_ago": 43,
-   "rsi_pivot": 48.4,
-   "vol24": 69566,
-   "price": 0.0007066
+   "symbol": "ZESTUSDT",
+   "div3_hours_ago": 21,
+   "rsi_pivot": 42.8,
+   "vol24": 70315,
+   "price": 0.17562
   },
   {
    "symbol": "HOODRATUSDT",
-   "div3_hours_ago": 11,
+   "div3_hours_ago": 17,
    "rsi_pivot": 35.7,
-   "vol24": 61930,
-   "price": 0.0012342
+   "vol24": 62344,
+   "price": 0.0013852
   },
   {
    "symbol": "FUSDT",
-   "div3_hours_ago": 3,
+   "div3_hours_ago": 9,
    "rsi_pivot": 38.0,
-   "vol24": 55427,
-   "price": 0.003808
-  },
-  {
-   "symbol": "AFCUSDT",
-   "div3_hours_ago": 43,
-   "rsi_pivot": 45.7,
-   "vol24": 53924,
-   "price": 0.1562
+   "vol24": 56265,
+   "price": 0.003588
   }
  ]
 }
