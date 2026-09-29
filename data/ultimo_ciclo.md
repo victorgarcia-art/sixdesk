@@ -1,6 +1,6 @@
 ```
-Ciclo 80 · 2026-09-29 08:22 UTC · 1396 pares · 96s
-Equity paper: 495.33 € · caja 419.00 € · abiertas 1
-Vigilancia (DIV3 <48h): 37 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: SUN(18h), COINDEPO(15h), LYN(19h), COTI(7h), IEFAON(2h), HANDL(3h), ZAMA(0h), PANWON(30h), ALEO(16h), GIGGLE(35h), INDEX(38h), ZEST(47h), SYN(1h), CME(9h), FOGO(1h)
+Ciclo 81 · 2026-09-29 15:43 UTC · 1396 pares · 97s
+Equity paper: 495.97 € · caja 419.00 € · abiertas 1
+Vigilancia (DIV3 <48h): 41 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: COINDEPO(22h), SUN(25h), COTI(14h), IEFAON(9h), LYN(26h), WARD(0h), ZAMA(7h), PANWON(37h), ALEO(23h), SOUNON(1h), ENPHON(2h), CME(16h), HANDL(10h), GIGGLE(42h), SYN(8h)
 ```
