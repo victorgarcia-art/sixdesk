@@ -1,7 +1,18 @@
 {
- "equity_eur": 498.89,
- "cash_eur": 498.89,
- "positions": {},
+ "equity_eur": 498.7,
+ "cash_eur": 427.62,
+ "positions": {
+  "LTCUSDT": {
+   "qty": 1.0418393375348087,
+   "entry_price": 68.23,
+   "cost_eur": 71.27,
+   "stop_price": 63.4539,
+   "target_price": 78.4645,
+   "opened_ts": 1790775450281,
+   "thesis": "triple divergencia alcista hace 0h + ruptura por compresión con volumen 1.5σ",
+   "einstein": "sin LLM: regla pura"
+  }
+ },
  "closed": [
   {
    "symbol": "OWLUSDT",
@@ -71,5 +82,5 @@
   }
  ],
  "lessons": [],
- "cycles": 84
+ "cycles": 85
 }

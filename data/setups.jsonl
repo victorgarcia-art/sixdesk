@@ -4,3 +4,4 @@
 {"ts": 1790206699971, "symbol": "BLOBUSDT", "price": 1.082, "vol24": 969995, "size_eur": 69.16, "stop": 1.00626, "target": 1.2443, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}
 {"ts": 1790261864601, "symbol": "ENAUSDT", "price": 0.21865, "vol24": 39031078, "size_eur": 68.42, "stop": 0.2033445, "target": 0.2514475, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}
 {"ts": 1790442397015, "symbol": "BLOBUSDT", "price": 0.219, "vol24": 66478, "size_eur": 69.83, "stop": 0.20367, "target": 0.25185, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}
+{"ts": 1790775450281, "symbol": "LTCUSDT", "price": 68.23, "vol24": 8949949, "size_eur": 71.27, "stop": 63.4539, "target": 78.4645, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}
