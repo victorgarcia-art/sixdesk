@@ -1,6 +1,6 @@
 ```
-Ciclo 86 · 2026-09-30 19:09 UTC · 1390 pares · 96s
-Equity paper: 496.54 € · caja 427.62 € · abiertas 1
-Vigilancia (DIV3 <48h): 65 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: LTC(6h), HYPE(17h), PENDLE(5h), CRCLON(12h), POWER(20h), HANDL(38h), IEFAON(37h), WARD(28h), CRMON(13h), ZAMA(35h), MCDON(17h), FONE(19h), MARAON(13h), SPYON(2h), URAON(17h)
+Ciclo 87 · 2026-09-30 23:42 UTC · 1390 pares · 96s
+Equity paper: 497.54 € · caja 427.62 € · abiertas 1
+Vigilancia (DIV3 <48h): 68 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: LTC(10h), HYPE(21h), PENDLE(9h), BP(2h), CRCLON(16h), HANDL(42h), POWER(24h), WARD(32h), CRMON(17h), IEFAON(41h), MCDON(21h), ZAMA(39h), FONE(23h), MARAON(17h), SPYON(6h)
 ```
