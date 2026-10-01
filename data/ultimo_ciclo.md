@@ -1,6 +1,6 @@
 ```
-Ciclo 89 · 2026-10-01 13:03 UTC · 1390 pares · 96s
-Equity paper: 497.51 € · caja 427.62 € · abiertas 1
-Vigilancia (DIV3 <48h): 65 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: LTC(24h), DGAI(0h), HYPE(35h), PENDLE(23h), BP(16h), PYTH(9h), POWER(38h), MSTRON(7h), PROMPT(28h), FONE(37h), CRMON(31h), SPYON(20h), SMCION(13h), ONDSON(7h), MARAON(31h)
+Ciclo 90 · 2026-10-01 18:51 UTC · 1391 pares · 97s
+Equity paper: 498.27 € · caja 427.62 € · abiertas 1
+Vigilancia (DIV3 <48h): 70 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: LTC(29h), DGAI(5h), HYPE(40h), PENDLE(28h), BP(21h), ADI(1h), PYTH(14h), PROMPT(33h), POWER(43h), MSTRON(12h), CRMON(36h), SPYON(25h), FONE(42h), ONDSON(12h), MARAON(36h)
 ```
