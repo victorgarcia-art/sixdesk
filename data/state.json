@@ -1,5 +1,5 @@
 {
- "equity_eur": 499.66,
+ "equity_eur": 500.07,
  "cash_eur": 427.62,
  "positions": {
   "LTCUSDT": {
@@ -82,5 +82,5 @@
   }
  ],
  "lessons": [],
- "cycles": 97
+ "cycles": 98
 }
