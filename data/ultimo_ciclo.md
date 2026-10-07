@@ -1,8 +1,7 @@
 ```
-Ciclo 112 · 2026-10-06 20:13 UTC · 1390 pares · 97s
-Equity paper: 509.57 € · caja 436.94 € · abiertas 1
-Vigilancia (DIV3 <48h): 29 · Setups DIV3→ruptura: 1 · aprobados 1 · rechazados 0
-✅ PAIDUSDT @ 0.005598 · 72.82 € · stop 0.00520614 · obj 0.0064377 · sin LLM: regla pura
-⏹ PAIDUSDT cerrada por objetivo +14.41% (+10.28 €)
-Vigilancia: GOLD(PAXG)(12h), BR(23h), POWER(37h), PUBLIC(5h), PAID(11h), NATG(8h), ISRGON(30h), NOWON(14h), FNON(6h), BIDUON(37h), STABLE(35h), 2Z(5h), PAIR(44h), BERT(33h), H(28h)
+Ciclo 113 · 2026-10-07 00:37 UTC · 1391 pares · 96s
+Equity paper: 504.31 € · caja 504.31 € · abiertas 0
+Vigilancia (DIV3 <48h): 28 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+⏹ PAIDUSDT cerrada por stop -7.48% (-5.45 €)
+Vigilancia: GOLD(PAXG)(16h), BR(27h), PAID(15h), PUBLIC(9h), POWER(41h), NATG(12h), NOWON(18h), ISRGON(34h), FNON(10h), BIDUON(41h), STABLE(39h), SMART(3h), FOLKS(1h), 2Z(9h), H(32h)
 ```
