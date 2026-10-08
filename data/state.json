@@ -1,6 +1,6 @@
 {
- "equity_eur": 504.39,
- "cash_eur": 360.19,
+ "equity_eur": 498.42,
+ "cash_eur": 355.65,
  "positions": {
   "QUIDUSDT": {
    "qty": 1089.8979307057266,
@@ -12,14 +12,14 @@
    "thesis": "triple divergencia alcista hace 1h + ruptura por compresión con volumen 15.15σ",
    "einstein": "sin LLM: regla pura"
   },
-  "AMPUSDT": {
-   "qty": 90763.81373203237,
-   "entry_price": 0.0007921,
-   "cost_eur": 72.08,
-   "stop_price": 0.000736653,
-   "target_price": 0.000910915,
-   "opened_ts": 1791476694972,
-   "thesis": "triple divergencia alcista hace 4h + ruptura por compresión con volumen 11.81σ",
+  "JCTUSDT": {
+   "qty": 28612.4857027789,
+   "entry_price": 0.002483,
+   "cost_eur": 71.23,
+   "stop_price": 0.00230919,
+   "target_price": 0.00285545,
+   "opened_ts": 1791496894046,
+   "thesis": "triple divergencia alcista hace 8h + ruptura por compresión con volumen 2.91σ",
    "einstein": "sin LLM: regla pura"
   }
  },
@@ -122,8 +122,19 @@
    "opened_ts": 1791317598051,
    "closed_ts": 1791333475855,
    "thesis": "triple divergencia alcista hace 11h + ruptura por compresión con volumen 4.79σ"
+  },
+  {
+   "symbol": "AMPUSDT",
+   "reason": "stop",
+   "entry_price": 0.0007921,
+   "exit_price": 0.000736653,
+   "pnl_eur": -5.39,
+   "pnl_pct": -7.48,
+   "opened_ts": 1791476694972,
+   "closed_ts": 1791496892467,
+   "thesis": "triple divergencia alcista hace 4h + ruptura por compresión con volumen 11.81σ"
   }
  ],
  "lessons": [],
- "cycles": 119
+ "cycles": 120
 }

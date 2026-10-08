@@ -9,3 +9,4 @@
 {"ts": 1791317598051, "symbol": "PAIDUSDT", "price": 0.005598, "vol24": 249094, "size_eur": 72.82, "stop": 0.00520614, "target": 0.0064377, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}
 {"ts": 1791424236701, "symbol": "QUIDUSDT", "price": 0.06593, "vol24": 77838, "size_eur": 72.04, "stop": 0.0613149, "target": 0.0758195, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}
 {"ts": 1791476694972, "symbol": "AMPUSDT", "price": 0.0007921, "vol24": 62807, "size_eur": 72.08, "stop": 0.00073665, "target": 0.00091091, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}
+{"ts": 1791496894046, "symbol": "JCTUSDT", "price": 0.002483, "vol24": 159590, "size_eur": 71.23, "stop": 0.00230919, "target": 0.00285545, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}
