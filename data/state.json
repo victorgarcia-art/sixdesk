@@ -1,6 +1,6 @@
 {
- "equity_eur": 509.16,
- "cash_eur": 432.27,
+ "equity_eur": 504.39,
+ "cash_eur": 360.19,
  "positions": {
   "QUIDUSDT": {
    "qty": 1089.8979307057266,
@@ -10,6 +10,16 @@
    "target_price": 0.0758195,
    "opened_ts": 1791424236701,
    "thesis": "triple divergencia alcista hace 1h + ruptura por compresión con volumen 15.15σ",
+   "einstein": "sin LLM: regla pura"
+  },
+  "AMPUSDT": {
+   "qty": 90763.81373203237,
+   "entry_price": 0.0007921,
+   "cost_eur": 72.08,
+   "stop_price": 0.000736653,
+   "target_price": 0.000910915,
+   "opened_ts": 1791476694972,
+   "thesis": "triple divergencia alcista hace 4h + ruptura por compresión con volumen 11.81σ",
    "einstein": "sin LLM: regla pura"
   }
  },
@@ -115,5 +125,5 @@
   }
  ],
  "lessons": [],
- "cycles": 118
+ "cycles": 119
 }
