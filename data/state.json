@@ -1,7 +1,18 @@
 {
- "equity_eur": 504.31,
- "cash_eur": 504.31,
- "positions": {},
+ "equity_eur": 504.13,
+ "cash_eur": 432.27,
+ "positions": {
+  "QUIDUSDT": {
+   "qty": 1089.8979307057266,
+   "entry_price": 0.06593,
+   "cost_eur": 72.04,
+   "stop_price": 0.0613149,
+   "target_price": 0.0758195,
+   "opened_ts": 1791424236701,
+   "thesis": "triple divergencia alcista hace 1h + ruptura por compresión con volumen 15.15σ",
+   "einstein": "sin LLM: regla pura"
+  }
+ },
  "closed": [
   {
    "symbol": "OWLUSDT",
@@ -104,5 +115,5 @@
   }
  ],
  "lessons": [],
- "cycles": 116
+ "cycles": 117
 }
