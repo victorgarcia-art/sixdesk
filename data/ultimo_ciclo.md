@@ -1,8 +1,7 @@
 ```
-Ciclo 120 · 2026-10-08 22:01 UTC · 1393 pares · 97s
-Equity paper: 498.42 € · caja 355.65 € · abiertas 2
-Vigilancia (DIV3 <48h): 71 · Setups DIV3→ruptura: 1 · aprobados 1 · rechazados 0
-✅ JCTUSDT @ 0.002483 · 71.23 € · stop 0.00230919 · obj 0.00285545 · sin LLM: regla pura
-⏹ AMPUSDT cerrada por stop -7.48% (-5.39 €)
-Vigilancia: SOL(12h), DOGE(12h), DOT(12h), BCH(18h), WXT(12h), SHIB(12h), ONDO(12h), MBK(24h), XLM(12h), VIRTUAL(12h), CASHCAT(24h), RUNE(12h), PEPE(12h), CC(0h), QUBIC(12h)
+Ciclo 121 · 2026-10-09 02:02 UTC · 1393 pares · 97s
+Equity paper: 499.05 € · caja 421.55 € · abiertas 1
+Vigilancia (DIV3 <48h): 96 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+⏹ JCTUSDT cerrada por stop -7.48% (-5.33 €)
+Vigilancia: SOL(16h), DOGE(16h), BCH(22h), DOT(16h), WXT(16h), GRAM(3h), SHIB(16h), ONDO(16h), XLM(16h), MBK(28h), VIRTUAL(16h), CASHCAT(29h), RUNE(16h), AKE(0h), PEPE(16h)
 ```

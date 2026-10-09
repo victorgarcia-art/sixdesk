@@ -1,6 +1,6 @@
 {
- "equity_eur": 498.42,
- "cash_eur": 355.65,
+ "equity_eur": 499.05,
+ "cash_eur": 421.55,
  "positions": {
   "QUIDUSDT": {
    "qty": 1089.8979307057266,
@@ -10,16 +10,6 @@
    "target_price": 0.0758195,
    "opened_ts": 1791424236701,
    "thesis": "triple divergencia alcista hace 1h + ruptura por compresión con volumen 15.15σ",
-   "einstein": "sin LLM: regla pura"
-  },
-  "JCTUSDT": {
-   "qty": 28612.4857027789,
-   "entry_price": 0.002483,
-   "cost_eur": 71.23,
-   "stop_price": 0.00230919,
-   "target_price": 0.00285545,
-   "opened_ts": 1791496894046,
-   "thesis": "triple divergencia alcista hace 8h + ruptura por compresión con volumen 2.91σ",
    "einstein": "sin LLM: regla pura"
   }
  },
@@ -133,8 +123,19 @@
    "opened_ts": 1791476694972,
    "closed_ts": 1791496892467,
    "thesis": "triple divergencia alcista hace 4h + ruptura por compresión con volumen 11.81σ"
+  },
+  {
+   "symbol": "JCTUSDT",
+   "reason": "stop",
+   "entry_price": 0.002483,
+   "exit_price": 0.00230919,
+   "pnl_eur": -5.33,
+   "pnl_pct": -7.48,
+   "opened_ts": 1791496894046,
+   "closed_ts": 1791511369589,
+   "thesis": "triple divergencia alcista hace 8h + ruptura por compresión con volumen 2.91σ"
   }
  ],
  "lessons": [],
- "cycles": 120
+ "cycles": 121
 }
