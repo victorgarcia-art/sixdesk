@@ -1,5 +1,5 @@
 {
- "equity_eur": 492.13,
+ "equity_eur": 493.33,
  "cash_eur": 421.55,
  "positions": {
   "QUIDUSDT": {
@@ -137,5 +137,5 @@
   }
  ],
  "lessons": [],
- "cycles": 124
+ "cycles": 125
 }
