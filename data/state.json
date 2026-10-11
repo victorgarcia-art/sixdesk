@@ -1,18 +1,7 @@
 {
- "equity_eur": 494.06,
- "cash_eur": 421.55,
- "positions": {
-  "QUIDUSDT": {
-   "qty": 1089.8979307057266,
-   "entry_price": 0.06593,
-   "cost_eur": 72.04,
-   "stop_price": 0.0613149,
-   "target_price": 0.0758195,
-   "opened_ts": 1791424236701,
-   "thesis": "triple divergencia alcista hace 1h + ruptura por compresión con volumen 15.15σ",
-   "einstein": "sin LLM: regla pura"
-  }
- },
+ "equity_eur": 491.22,
+ "cash_eur": 491.22,
+ "positions": {},
  "closed": [
   {
    "symbol": "OWLUSDT",
@@ -134,8 +123,19 @@
    "opened_ts": 1791496894046,
    "closed_ts": 1791511369589,
    "thesis": "triple divergencia alcista hace 8h + ruptura por compresión con volumen 2.91σ"
+  },
+  {
+   "symbol": "QUIDUSDT",
+   "reason": "caducidad",
+   "entry_price": 0.06593,
+   "exit_price": 0.06409,
+   "pnl_eur": -2.37,
+   "pnl_pct": -3.29,
+   "opened_ts": 1791424236701,
+   "closed_ts": 1791697043449,
+   "thesis": "triple divergencia alcista hace 1h + ruptura por compresión con volumen 15.15σ"
   }
  ],
  "lessons": [],
- "cycles": 129
+ "cycles": 130
 }
