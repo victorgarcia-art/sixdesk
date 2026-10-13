@@ -1,6 +1,6 @@
 ```
-Ciclo 139 · 2026-10-13 17:34 UTC · 1377 pares · 95s
+Ciclo 140 · 2026-10-13 22:38 UTC · 1377 pares · 96s
 Equity paper: 491.22 € · caja 491.22 € · abiertas 0
-Vigilancia (DIV3 <48h): 19 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: ZC(43h), ARCSOL(46h), PLTRON(11h), AKE(29h), SNDKON(0h), AEON(32h), BULLA(37h), HOOKR(41h), CHIRP(26h), GNS(11h), M(31h), TWT(38h), ALPH(17h), MAGMA(0h), FUSE(9h)
+Vigilancia (DIV3 <48h): 26 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: CRV(1h), NVDAON(3h), PLTRON(16h), LITEON(1h), AKE(34h), GNS(16h), COHRON(3h), SNDKON(5h), VSTON(3h), SPYON(1h), BULLA(42h), HOOKR(46h), AEON(4h), JASMY(4h), CHIRP(31h)
 ```
