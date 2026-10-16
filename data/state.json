@@ -1,5 +1,5 @@
 {
- "equity_eur": 482.97,
+ "equity_eur": 481.58,
  "cash_eur": 280.71,
  "positions": {
   "RAYUSDT": {
@@ -168,5 +168,5 @@
   }
  ],
  "lessons": [],
- "cycles": 154
+ "cycles": 155
 }

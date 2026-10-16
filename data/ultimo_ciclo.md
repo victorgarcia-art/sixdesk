@@ -1,7 +1,6 @@
 ```
-Ciclo 154 · 2026-10-16 17:21 UTC · 1374 pares · 95s
-Equity paper: 482.97 € · caja 280.71 € · abiertas 3
-Vigilancia (DIV3 <48h): 81 · Setups DIV3→ruptura: 1 · aprobados 0 · rechazados 1
-✖ DUSTUSDT @ 6.402 · aprobado por EINSTEIN pero sin hueco: máximo de posiciones
-Vigilancia: NEAR(22h), W(33h), KRAFT(43h), KII(47h), MBK(18h), ONDO(22h), TRUTH(2h), LINK(22h), JUP(22h), RAY(25h), ALABON(15h), RDWON(21h), ASMLON(22h), MARAON(21h), BLUR(33h)
+Ciclo 155 · 2026-10-16 20:59 UTC · 1374 pares · 94s
+Equity paper: 481.58 € · caja 280.71 € · abiertas 3
+Vigilancia (DIV3 <48h): 78 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: NEAR(25h), W(36h), KRAFT(46h), MBK(21h), ONDO(25h), DUST(19h), LINK(25h), ASMLON(25h), JUP(25h), RAY(28h), ALABON(18h), RDWON(24h), EPIC(3h), TRUTH(5h), EIGEN(25h)
 ```
