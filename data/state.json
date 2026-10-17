@@ -1,17 +1,7 @@
 {
- "equity_eur": 485.14,
- "cash_eur": 280.71,
+ "equity_eur": 479.92,
+ "cash_eur": 345.63,
  "positions": {
-  "RAYUSDT": {
-   "qty": 36.11549668288368,
-   "entry_price": 1.938,
-   "cost_eur": 70.17,
-   "stop_price": 1.8023399999999998,
-   "target_price": 2.2287,
-   "opened_ts": 1792153258937,
-   "thesis": "triple divergencia alcista hace 20h + ruptura por compresión con volumen 1.31σ",
-   "einstein": "sin LLM: regla pura"
-  },
   "EIGENUSDT": {
    "qty": 272.76629996659614,
    "entry_price": 0.2566,
@@ -165,8 +155,19 @@
    "opened_ts": 1791424236701,
    "closed_ts": 1791697043449,
    "thesis": "triple divergencia alcista hace 1h + ruptura por compresión con volumen 15.15σ"
+  },
+  {
+   "symbol": "RAYUSDT",
+   "reason": "stop",
+   "entry_price": 1.938,
+   "exit_price": 1.8023399999999998,
+   "pnl_eur": -5.25,
+   "pnl_pct": -7.48,
+   "opened_ts": 1792153258937,
+   "closed_ts": 1792256606686,
+   "thesis": "triple divergencia alcista hace 20h + ruptura por compresión con volumen 1.31σ"
   }
  ],
  "lessons": [],
- "cycles": 159
+ "cycles": 160
 }

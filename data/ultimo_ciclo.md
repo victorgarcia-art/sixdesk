@@ -1,6 +1,7 @@
 ```
-Ciclo 159 · 2026-10-17 13:39 UTC · 1375 pares · 95s
-Equity paper: 485.14 € · caja 280.71 € · abiertas 3
-Vigilancia (DIV3 <48h): 64 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: NEAR(42h), DUST(36h), MBK(38h), EPIC(20h), ONDO(42h), 龙虾(16h), EIGEN(42h), LINK(42h), ASMLON(42h), RDWON(41h), TRUTH(22h), MARAON(41h), BMNRON(42h), MINT(27h), PPOLY(17h)
+Ciclo 160 · 2026-10-17 17:03 UTC · 1373 pares · 95s
+Equity paper: 479.92 € · caja 345.63 € · abiertas 2
+Vigilancia (DIV3 <48h): 62 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+⏹ RAYUSDT cerrada por stop -7.48% (-5.25 €)
+Vigilancia: NEAR(46h), MBK(42h), DUST(40h), EPIC(24h), ONDO(46h), MINT(31h), LINK(46h), 龙虾(20h), EIGEN(46h), TRUTH(26h), ASMLON(46h), RDWON(45h), BMNRON(46h), AAPLX(17h), MARAON(45h)
 ```
