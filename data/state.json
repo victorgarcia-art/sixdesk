@@ -1,6 +1,6 @@
 {
- "equity_eur": 481.0,
- "cash_eur": 345.63,
+ "equity_eur": 477.98,
+ "cash_eur": 410.55,
  "positions": {
   "EIGENUSDT": {
    "qty": 272.76629996659614,
@@ -10,16 +10,6 @@
    "target_price": 0.29508999999999996,
    "opened_ts": 1792153258937,
    "thesis": "triple divergencia alcista hace 17h + ruptura por compresión con volumen 3.34σ",
-   "einstein": "sin LLM: regla pura"
-  },
-  "LINKUSDT": {
-   "qty": 5.5076985026305145,
-   "entry_price": 12.708,
-   "cost_eur": 70.17,
-   "stop_price": 11.818439999999999,
-   "target_price": 14.614199999999999,
-   "opened_ts": 1792153258937,
-   "thesis": "triple divergencia alcista hace 17h + ruptura por compresión con volumen 0.24σ",
    "einstein": "sin LLM: regla pura"
   }
  },
@@ -166,8 +156,19 @@
    "opened_ts": 1792153258937,
    "closed_ts": 1792256606686,
    "thesis": "triple divergencia alcista hace 20h + ruptura por compresión con volumen 1.31σ"
+  },
+  {
+   "symbol": "LINKUSDT",
+   "reason": "stop",
+   "entry_price": 12.708,
+   "exit_price": 11.818439999999999,
+   "pnl_eur": -5.25,
+   "pnl_pct": -7.48,
+   "opened_ts": 1792153258937,
+   "closed_ts": 1792275228519,
+   "thesis": "triple divergencia alcista hace 17h + ruptura por compresión con volumen 0.24σ"
   }
  ],
  "lessons": [],
- "cycles": 161
+ "cycles": 162
 }
