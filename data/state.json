@@ -1,5 +1,5 @@
 {
- "equity_eur": 479.92,
+ "equity_eur": 481.0,
  "cash_eur": 345.63,
  "positions": {
   "EIGENUSDT": {
@@ -169,5 +169,5 @@
   }
  ],
  "lessons": [],
- "cycles": 160
+ "cycles": 161
 }
