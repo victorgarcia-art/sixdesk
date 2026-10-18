@@ -1,18 +1,7 @@
 {
- "equity_eur": 478.47,
- "cash_eur": 410.55,
- "positions": {
-  "EIGENUSDT": {
-   "qty": 272.76629996659614,
-   "entry_price": 0.2566,
-   "cost_eur": 70.17,
-   "stop_price": 0.238638,
-   "target_price": 0.29508999999999996,
-   "opened_ts": 1792153258937,
-   "thesis": "triple divergencia alcista hace 17h + ruptura por compresión con volumen 3.34σ",
-   "einstein": "sin LLM: regla pura"
-  }
- },
+ "equity_eur": 475.47,
+ "cash_eur": 475.47,
+ "positions": {},
  "closed": [
   {
    "symbol": "OWLUSDT",
@@ -167,8 +156,19 @@
    "opened_ts": 1792153258937,
    "closed_ts": 1792275228519,
    "thesis": "triple divergencia alcista hace 17h + ruptura por compresión con volumen 0.24σ"
+  },
+  {
+   "symbol": "EIGENUSDT",
+   "reason": "stop",
+   "entry_price": 0.2566,
+   "exit_price": 0.238638,
+   "pnl_eur": -5.25,
+   "pnl_pct": -7.48,
+   "opened_ts": 1792153258937,
+   "closed_ts": 1792333885532,
+   "thesis": "triple divergencia alcista hace 17h + ruptura por compresión con volumen 3.34σ"
   }
  ],
  "lessons": [],
- "cycles": 165
+ "cycles": 166
 }
