@@ -1,5 +1,5 @@
 {
- "equity_eur": 476.41,
+ "equity_eur": 476.18,
  "cash_eur": 339.63,
  "positions": {
   "GOOGLONUSDT": {
@@ -191,5 +191,5 @@
   }
  ],
  "lessons": [],
- "cycles": 171
+ "cycles": 172
 }

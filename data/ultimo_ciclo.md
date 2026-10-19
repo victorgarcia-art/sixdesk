@@ -1,6 +1,6 @@
 ```
-Ciclo 171 · 2026-10-19 07:41 UTC · 1377 pares · 95s
-Equity paper: 476.41 € · caja 339.63 € · abiertas 2
-Vigilancia (DIV3 <48h): 48 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: 9BIT(3h), SPYON(5h), XRB(17h), DELLON(4h), NXPC(4h), CRDOON(28h), MON(4h), GOOGLON(26h), REGNON(14h), PANWON(6h), STXON(34h), OP(4h), GHUB(6h), MUBARAK(39h), HANDL(11h)
+Ciclo 172 · 2026-10-19 15:32 UTC · 1377 pares · 94s
+Equity paper: 476.18 € · caja 339.63 € · abiertas 2
+Vigilancia (DIV3 <48h): 51 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: 9BIT(11h), SPYON(13h), PROPS(2h), GOOGLON(34h), DELLON(12h), CRDOON(36h), PANWON(14h), STXON(42h), OP(12h), REGNON(22h), MUBARAK(47h), MON(12h), NXPC(12h), TSLAX(13h), GHUB(14h)
 ```
