@@ -14,3 +14,5 @@
 {"ts": 1792153258937, "symbol": "EIGENUSDT", "price": 0.2566, "vol24": 241602, "size_eur": 70.17, "stop": 0.238638, "target": 0.29509, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}
 {"ts": 1792153258937, "symbol": "LINKUSDT", "price": 12.708, "vol24": 574837, "size_eur": 70.17, "stop": 11.81844, "target": 14.6142, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}
 {"ts": 1792171305979, "symbol": "DUSTUSDT", "price": 6.402, "vol24": 81372, "size_eur": 69.0, "stop": 5.95386, "target": 7.3623, "decision": "approve", "conviction": null, "reason": "aprobado por EINSTEIN pero sin hueco: máximo de posiciones", "mode": "paper"}
+{"ts": 1792372115903, "symbol": "GOOGLONUSDT", "price": 344.05, "vol24": 159836, "size_eur": 67.92, "stop": 319.9665, "target": 395.6575, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}
+{"ts": 1792372115903, "symbol": "CRDOONUSDT", "price": 173.69, "vol24": 167277, "size_eur": 67.92, "stop": 161.5317, "target": 199.7435, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}

@@ -1,7 +1,28 @@
 {
- "equity_eur": 475.47,
- "cash_eur": 475.47,
- "positions": {},
+ "equity_eur": 475.13,
+ "cash_eur": 339.63,
+ "positions": {
+  "GOOGLONUSDT": {
+   "qty": 0.19691231673137208,
+   "entry_price": 344.05,
+   "cost_eur": 67.92,
+   "stop_price": 319.9665,
+   "target_price": 395.65749999999997,
+   "opened_ts": 1792372115903,
+   "thesis": "triple divergencia alcista hace 20h + ruptura por compresión con volumen 5.51σ",
+   "einstein": "sin LLM: regla pura"
+  },
+  "CRDOONUSDT": {
+   "qty": 0.39004941315808955,
+   "entry_price": 173.69,
+   "cost_eur": 67.92,
+   "stop_price": 161.5317,
+   "target_price": 199.74349999999998,
+   "opened_ts": 1792372115903,
+   "thesis": "triple divergencia alcista hace 22h + ruptura por compresión con volumen 14.85σ",
+   "einstein": "sin LLM: regla pura"
+  }
+ },
  "closed": [
   {
    "symbol": "OWLUSDT",
@@ -170,5 +191,5 @@
   }
  ],
  "lessons": [],
- "cycles": 169
+ "cycles": 170
 }
