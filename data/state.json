@@ -1,6 +1,6 @@
 {
- "equity_eur": 477.54,
- "cash_eur": 339.63,
+ "equity_eur": 476.46,
+ "cash_eur": 271.54,
  "positions": {
   "GOOGLONUSDT": {
    "qty": 0.19691231673137208,
@@ -20,6 +20,16 @@
    "target_price": 199.74349999999998,
    "opened_ts": 1792372115903,
    "thesis": "triple divergencia alcista hace 22h + ruptura por compresión con volumen 14.85σ",
+   "einstein": "sin LLM: regla pura"
+  },
+  "CNPYUSDT": {
+   "qty": 298.5247949764521,
+   "entry_price": 0.2275,
+   "cost_eur": 68.09,
+   "stop_price": 0.21157499999999999,
+   "target_price": 0.261625,
+   "opened_ts": 1792595348488,
+   "thesis": "triple divergencia alcista hace 20h + ruptura por compresión con volumen 0.2σ",
    "einstein": "sin LLM: regla pura"
   }
  },
@@ -191,5 +201,5 @@
   }
  ],
  "lessons": [],
- "cycles": 181
+ "cycles": 182
 }

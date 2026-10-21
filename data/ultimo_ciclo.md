@@ -1,6 +1,8 @@
 ```
-Ciclo 181 · 2026-10-21 10:02 UTC · 1381 pares · 95s
-Equity paper: 477.54 € · caja 339.63 € · abiertas 2
-Vigilancia (DIV3 <48h): 48 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: GOLD(XAUT)(3h), STRK(13h), UMX(36h), ICP(27h), COINON(1h), POWER(33h), CNPY(15h), PROPS(45h), OKLOON(15h), BLKON(19h), GLDON(2h), BIDUON(33h), FNON(14h), HANDL(34h), PRL(31h)
+Ciclo 182 · 2026-10-21 15:09 UTC · 1381 pares · 95s
+Equity paper: 476.46 € · caja 271.54 € · abiertas 3
+Vigilancia (DIV3 <48h): 49 · Setups DIV3→ruptura: 2 · aprobados 1 · rechazados 1
+✅ CNPYUSDT @ 0.2275 · 68.09 € · stop 0.211575 · obj 0.261625 · sin LLM: regla pura
+✖ BOBUSDT @ 0.004564 · aprobado por EINSTEIN pero sin hueco: máximo de posiciones
+Vigilancia: GOLD(XAUT)(8h), STRK(18h), UMX(41h), ICP(32h), COINON(6h), POWER(38h), ULTIMA(1h), CNPY(20h), CSCOON(3h), OKLOON(20h), GLDON(7h), BLKON(24h), BIDUON(38h), FNON(19h), HANDL(39h)
 ```
