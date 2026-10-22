@@ -1,27 +1,7 @@
 {
- "equity_eur": 478.33,
- "cash_eur": 271.54,
+ "equity_eur": 475.31,
+ "cash_eur": 404.41,
  "positions": {
-  "GOOGLONUSDT": {
-   "qty": 0.19691231673137208,
-   "entry_price": 344.05,
-   "cost_eur": 67.92,
-   "stop_price": 319.9665,
-   "target_price": 395.65749999999997,
-   "opened_ts": 1792372115903,
-   "thesis": "triple divergencia alcista hace 20h + ruptura por compresión con volumen 5.51σ",
-   "einstein": "sin LLM: regla pura"
-  },
-  "CRDOONUSDT": {
-   "qty": 0.39004941315808955,
-   "entry_price": 173.69,
-   "cost_eur": 67.92,
-   "stop_price": 161.5317,
-   "target_price": 199.74349999999998,
-   "opened_ts": 1792372115903,
-   "thesis": "triple divergencia alcista hace 22h + ruptura por compresión con volumen 14.85σ",
-   "einstein": "sin LLM: regla pura"
-  },
   "CNPYUSDT": {
    "qty": 298.5247949764521,
    "entry_price": 0.2275,
@@ -198,8 +178,30 @@
    "opened_ts": 1792153258937,
    "closed_ts": 1792333885532,
    "thesis": "triple divergencia alcista hace 17h + ruptura por compresión con volumen 3.34σ"
+  },
+  {
+   "symbol": "GOOGLONUSDT",
+   "reason": "caducidad",
+   "entry_price": 344.05,
+   "exit_price": 332.3,
+   "pnl_eur": -2.66,
+   "pnl_pct": -3.91,
+   "opened_ts": 1792372115903,
+   "closed_ts": 1792643531714,
+   "thesis": "triple divergencia alcista hace 20h + ruptura por compresión con volumen 5.51σ"
+  },
+  {
+   "symbol": "CRDOONUSDT",
+   "reason": "caducidad",
+   "entry_price": 173.69,
+   "exit_price": 173.79,
+   "pnl_eur": -0.31,
+   "pnl_pct": -0.46,
+   "opened_ts": 1792372115903,
+   "closed_ts": 1792643531714,
+   "thesis": "triple divergencia alcista hace 22h + ruptura por compresión con volumen 14.85σ"
   }
  ],
  "lessons": [],
- "cycles": 184
+ "cycles": 185
 }
