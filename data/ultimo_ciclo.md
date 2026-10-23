@@ -1,6 +1,7 @@
 ```
-Ciclo 193 · 2026-10-23 19:07 UTC · 1371 pares · 94s
-Equity paper: 477.37 € · caja 336.16 € · abiertas 2
-Vigilancia (DIV3 <48h): 35 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: GOLD(XAUT)(42h), INJ(14h), GTT(22h), STRK(2h), MITO(5h), GTC(36h), SHARE(38h), IEFAON(17h), NPC(9h), ASTSON(0h), GOOGLON(0h), FCXON(0h), RION(47h), ALIGN(11h), ZIG(31h)
+Ciclo 194 · 2026-10-23 23:05 UTC · 1372 pares · 94s
+Equity paper: 467.31 € · caja 399.16 € · abiertas 1
+Vigilancia (DIV3 <48h): 46 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+⏹ CNPYUSDT cerrada por stop -7.48% (-5.09 €)
+Vigilancia: GOLD(XAUT)(46h), INJ(18h), ETHFI(3h), GRAM(3h), STRK(6h), GTT(26h), ARB(3h), MITO(9h), GTC(40h), SLVON(3h), ULTIMA(2h), IEFAON(21h), SHARE(42h), NPC(13h), GOOGLON(4h)
 ```

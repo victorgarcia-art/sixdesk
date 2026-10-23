@@ -1,17 +1,7 @@
 {
- "equity_eur": 477.37,
- "cash_eur": 336.16,
+ "equity_eur": 467.31,
+ "cash_eur": 399.16,
  "positions": {
-  "CNPYUSDT": {
-   "qty": 298.5247949764521,
-   "entry_price": 0.2275,
-   "cost_eur": 68.09,
-   "stop_price": 0.21157499999999999,
-   "target_price": 0.261625,
-   "opened_ts": 1792595348488,
-   "thesis": "triple divergencia alcista hace 20h + ruptura por compresión con volumen 0.2σ",
-   "einstein": "sin LLM: regla pura"
-  },
   "PEAQUSDT": {
    "qty": 1836.3629581101388,
    "entry_price": 0.03707,
@@ -210,8 +200,19 @@
    "opened_ts": 1792372115903,
    "closed_ts": 1792643531714,
    "thesis": "triple divergencia alcista hace 22h + ruptura por compresión con volumen 14.85σ"
+  },
+  {
+   "symbol": "CNPYUSDT",
+   "reason": "stop",
+   "entry_price": 0.2275,
+   "exit_price": 0.21157499999999999,
+   "pnl_eur": -5.09,
+   "pnl_pct": -7.48,
+   "opened_ts": 1792595348488,
+   "closed_ts": 1792796720194,
+   "thesis": "triple divergencia alcista hace 20h + ruptura por compresión con volumen 0.2σ"
   }
  ],
  "lessons": [],
- "cycles": 193
+ "cycles": 194
 }
