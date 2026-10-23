@@ -1,5 +1,5 @@
 {
- "equity_eur": 477.58,
+ "equity_eur": 477.37,
  "cash_eur": 336.16,
  "positions": {
   "CNPYUSDT": {
@@ -213,5 +213,5 @@
   }
  ],
  "lessons": [],
- "cycles": 192
+ "cycles": 193
 }
