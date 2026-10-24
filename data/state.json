@@ -1,5 +1,5 @@
 {
- "equity_eur": 467.31,
+ "equity_eur": 467.58,
  "cash_eur": 399.16,
  "positions": {
   "PEAQUSDT": {
@@ -214,5 +214,5 @@
   }
  ],
  "lessons": [],
- "cycles": 194
+ "cycles": 195
 }
