@@ -1,7 +1,6 @@
 ```
-Ciclo 205 · 2026-10-25 18:59 UTC · 1368 pares · 94s
-Equity paper: 466.33 € · caja 332.52 € · abiertas 2
-Vigilancia (DIV3 <48h): 97 · Setups DIV3→ruptura: 1 · aprobados 1 · rechazados 0
-✅ PYTHUSDT @ 0.07362 · 66.64 € · stop 0.0684666 · obj 0.084663 · sin LLM: regla pura
-Vigilancia: UPC(27h), INJ(37h), ETHFI(46h), MX(12h), TIA(20h), GRAM(46h), WLD(4h), DUST(7h), PYTH(22h), CRV(1h), KDX(21h), BANK(3h), ARB(46h), ULTIMA(45h), GALA(3h)
+Ciclo 206 · 2026-10-25 21:41 UTC · 1368 pares · 94s
+Equity paper: 467.11 € · caja 332.52 € · abiertas 2
+Vigilancia (DIV3 <48h): 93 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: UPC(30h), INJ(40h), MX(15h), TIA(23h), PYTH(25h), WLD(7h), DUST(10h), CRV(4h), KDX(24h), GALA(6h), APE(1h), BANK(6h), IOST(23h), CLAUDIA(39h), INTUON(22h)
 ```
