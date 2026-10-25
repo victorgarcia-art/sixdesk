@@ -1,6 +1,6 @@
 ```
-Ciclo 200 · 2026-10-24 22:26 UTC · 1371 pares · 94s
-Equity paper: 465.49 € · caja 399.16 € · abiertas 1
-Vigilancia (DIV3 <48h): 72 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: UPC(7h), ETHFI(26h), INJ(17h), TIA(0h), GRAM(26h), STRK(29h), PYTH(2h), ARB(26h), ANSEM(1h), NMR(2h), KDX(1h), ULTIMA(25h), MITO(32h), HBAR(1h), NPC(36h)
+Ciclo 201 · 2026-10-25 01:03 UTC · 1371 pares · 94s
+Equity paper: 465.67 € · caja 399.16 € · abiertas 1
+Vigilancia (DIV3 <48h): 73 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: UPC(10h), INJ(20h), ETHFI(29h), TIA(3h), GRAM(29h), STRK(32h), PYTH(5h), ARB(29h), NMR(5h), KDX(4h), ANSEM(4h), ULTIMA(28h), NPC(39h), HBAR(4h), SLVON(29h)
 ```
