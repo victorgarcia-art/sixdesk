@@ -1,17 +1,7 @@
 {
- "equity_eur": 466.08,
- "cash_eur": 265.91,
+ "equity_eur": 464.19,
+ "cash_eur": 331.15,
  "positions": {
-  "PEAQUSDT": {
-   "qty": 1836.3629581101388,
-   "entry_price": 0.03707,
-   "cost_eur": 68.25,
-   "stop_price": 0.034475099999999995,
-   "target_price": 0.042630499999999995,
-   "opened_ts": 1792767478720,
-   "thesis": "triple divergencia alcista hace 9h + ruptura por compresión con volumen 3.37σ",
-   "einstein": "sin LLM: regla pura"
-  },
   "PYTHUSDT": {
    "qty": 902.8740249155896,
    "entry_price": 0.07362,
@@ -231,8 +221,19 @@
    "opened_ts": 1792595348488,
    "closed_ts": 1792796720194,
    "thesis": "triple divergencia alcista hace 20h + ruptura por compresión con volumen 0.2σ"
+  },
+  {
+   "symbol": "PEAQUSDT",
+   "reason": "caducidad",
+   "entry_price": 0.03707,
+   "exit_price": 0.03562,
+   "pnl_eur": -3.01,
+   "pnl_pct": -4.41,
+   "opened_ts": 1792767478720,
+   "closed_ts": 1793041942119,
+   "thesis": "triple divergencia alcista hace 9h + ruptura por compresión con volumen 3.37σ"
   }
  ],
  "lessons": [],
- "cycles": 209
+ "cycles": 210
 }

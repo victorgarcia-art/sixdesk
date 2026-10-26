@@ -1,7 +1,7 @@
 ```
-Ciclo 209 · 2026-10-26 12:50 UTC · 1368 pares · 94s
-Equity paper: 466.08 € · caja 265.91 € · abiertas 3
-Vigilancia (DIV3 <48h): 95 · Setups DIV3→ruptura: 1 · aprobados 1 · rechazados 0
-✅ BANKUSDT @ 0.0259 · 66.61 € · stop 0.024087 · obj 0.029785 · sin LLM: regla pura
-Vigilancia: UPC(45h), FIL(0h), MX(30h), ZIG(0h), SUI(3h), PYTH(40h), TIA(38h), UMX(40h), EVT(14h), 9BIT(8h), CRV(19h), BANK(21h), DOOD(5h), WLD(22h), APE(16h)
+Ciclo 210 · 2026-10-26 19:12 UTC · 1365 pares · 94s
+Equity paper: 464.19 € · caja 331.15 € · abiertas 2
+Vigilancia (DIV3 <48h): 121 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+⏹ PEAQUSDT cerrada por caducidad -4.41% (-3.01 €)
+Vigilancia: ZIG(7h), BANK(28h), FIL(7h), MX(37h), DOT(5h), SUI(10h), MEY(5h), TIA(45h), PYTH(47h), UMX(47h), DUST(32h), CRV(26h), 9BIT(15h), DOOD(12h), WLD(29h)
 ```
