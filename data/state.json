@@ -1,6 +1,6 @@
 {
- "equity_eur": 464.19,
- "cash_eur": 331.15,
+ "equity_eur": 463.64,
+ "cash_eur": 264.89,
  "positions": {
   "PYTHUSDT": {
    "qty": 902.8740249155896,
@@ -20,6 +20,16 @@
    "target_price": 0.029784999999999996,
    "opened_ts": 1793019014575,
    "thesis": "triple divergencia alcista hace 21h + ruptura por compresión con volumen 8.58σ",
+   "einstein": "sin LLM: regla pura"
+  },
+  "TUTUSDT": {
+   "qty": 3836.8729181872463,
+   "entry_price": 0.017224,
+   "cost_eur": 66.26,
+   "stop_price": 0.01601832,
+   "target_price": 0.019807599999999998,
+   "opened_ts": 1793058441531,
+   "thesis": "triple divergencia alcista hace 6h + ruptura por compresión con volumen 10.65σ",
    "einstein": "sin LLM: regla pura"
   }
  },
@@ -235,5 +245,5 @@
   }
  ],
  "lessons": [],
- "cycles": 210
+ "cycles": 211
 }

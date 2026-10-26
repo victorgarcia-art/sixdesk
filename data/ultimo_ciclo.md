@@ -1,7 +1,7 @@
 ```
-Ciclo 210 · 2026-10-26 19:12 UTC · 1365 pares · 94s
-Equity paper: 464.19 € · caja 331.15 € · abiertas 2
-Vigilancia (DIV3 <48h): 121 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-⏹ PEAQUSDT cerrada por caducidad -4.41% (-3.01 €)
-Vigilancia: ZIG(7h), BANK(28h), FIL(7h), MX(37h), DOT(5h), SUI(10h), MEY(5h), TIA(45h), PYTH(47h), UMX(47h), DUST(32h), CRV(26h), 9BIT(15h), DOOD(12h), WLD(29h)
+Ciclo 211 · 2026-10-26 23:47 UTC · 1365 pares · 95s
+Equity paper: 463.64 € · caja 264.89 € · abiertas 3
+Vigilancia (DIV3 <48h): 112 · Setups DIV3→ruptura: 1 · aprobados 1 · rechazados 0
+✅ TUTUSDT @ 0.017224 · 66.26 € · stop 0.01601832 · obj 0.0198076 · sin LLM: regla pura
+Vigilancia: ZIG(3h), BANK(32h), FIL(11h), MX(41h), MEY(9h), DOT(9h), SUI(14h), MRVLON(3h), DUST(36h), CRV(30h), 9BIT(19h), DOOD(16h), WLD(33h), APE(27h), SEDA(9h)
 ```
