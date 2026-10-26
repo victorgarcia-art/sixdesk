@@ -21,3 +21,4 @@
 {"ts": 1792613136961, "symbol": "BILLUSDT", "price": 0.006224, "vol24": 170163, "size_eur": 68.69, "stop": 0.00578832, "target": 0.0071576, "decision": "approve", "conviction": null, "reason": "aprobado por EINSTEIN pero sin hueco: máximo de posiciones", "mode": "paper"}
 {"ts": 1792767478720, "symbol": "PEAQUSDT", "price": 0.03707, "vol24": 76673, "size_eur": 68.25, "stop": 0.0344751, "target": 0.0426305, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}
 {"ts": 1792954750636, "symbol": "PYTHUSDT", "price": 0.07362, "vol24": 429284, "size_eur": 66.64, "stop": 0.0684666, "target": 0.084663, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}
+{"ts": 1793019014575, "symbol": "BANKUSDT", "price": 0.0259, "vol24": 453922, "size_eur": 66.61, "stop": 0.024087, "target": 0.029785, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}
