@@ -1,7 +1,6 @@
 ```
-Ciclo 211 · 2026-10-26 23:47 UTC · 1365 pares · 95s
-Equity paper: 463.64 € · caja 264.89 € · abiertas 3
-Vigilancia (DIV3 <48h): 112 · Setups DIV3→ruptura: 1 · aprobados 1 · rechazados 0
-✅ TUTUSDT @ 0.017224 · 66.26 € · stop 0.01601832 · obj 0.0198076 · sin LLM: regla pura
-Vigilancia: ZIG(3h), BANK(32h), FIL(11h), MX(41h), MEY(9h), DOT(9h), SUI(14h), MRVLON(3h), DUST(36h), CRV(30h), 9BIT(19h), DOOD(16h), WLD(33h), APE(27h), SEDA(9h)
+Ciclo 212 · 2026-10-27 04:53 UTC · 1365 pares · 94s
+Equity paper: 469.55 € · caja 264.89 € · abiertas 3
+Vigilancia (DIV3 <48h): 117 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: ZIG(8h), BANK(37h), FIL(16h), MEY(14h), DOT(14h), MX(46h), MRVLON(8h), SUI(19h), DUST(41h), DOOD(21h), CRV(35h), 9BIT(24h), WLD(38h), ICP(15h), SEDA(14h)
 ```
