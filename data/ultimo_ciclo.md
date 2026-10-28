@@ -1,6 +1,6 @@
 ```
-Ciclo 216 · 2026-10-28 01:13 UTC · 1366 pares · 93s
-Equity paper: 484.94 € · caja 279.48 € · abiertas 3
-Vigilancia (DIV3 <48h): 107 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: ZIG(11h), MEY(35h), DOT(35h), FIL(5h), FOXSY(9h), SUI(40h), APR(17h), WLD(5h), CASHCAT(29h), 9BIT(19h), MRVLON(29h), DOOD(42h), GALA(16h), SEDA(35h), ICP(36h)
+Ciclo 217 · 2026-10-28 08:20 UTC · 1367 pares · 94s
+Equity paper: 483.25 € · caja 279.48 € · abiertas 3
+Vigilancia (DIV3 <48h): 106 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: ZIG(18h), MEY(42h), DOT(42h), FIL(12h), SUI(47h), APR(24h), FOXSY(16h), WLD(12h), CASHCAT(36h), 9BIT(26h), MRVLON(36h), ICP(43h), SEDA(42h), GALA(23h), ACN(32h)
 ```
