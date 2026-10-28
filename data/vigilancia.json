@@ -1,782 +1,754 @@
 {
- "ts": 1793135750535,
+ "ts": 1793149993372,
  "watch": [
   {
    "symbol": "ZIGUSDT",
-   "div3_hours_ago": 7,
+   "div3_hours_ago": 11,
    "rsi_pivot": 38.7,
-   "vol24": 3686744,
-   "price": 0.042186
-  },
-  {
-   "symbol": "DOTUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 44.9,
-   "vol24": 1434729,
-   "price": 0.994
+   "vol24": 3686752,
+   "price": 0.042255
   },
   {
    "symbol": "MEYUSDT",
-   "div3_hours_ago": 31,
+   "div3_hours_ago": 35,
    "rsi_pivot": 42.4,
-   "vol24": 1394489,
-   "price": 0.04816
+   "vol24": 1601100,
+   "price": 0.04843
+  },
+  {
+   "symbol": "DOTUSDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 44.9,
+   "vol24": 1519025,
+   "price": 1.0044
   },
   {
    "symbol": "FILUSDT",
-   "div3_hours_ago": 1,
+   "div3_hours_ago": 5,
    "rsi_pivot": 43.5,
-   "vol24": 1385493,
-   "price": 0.8988
+   "vol24": 1413276,
+   "price": 0.9118
   },
   {
    "symbol": "FOXSYUSDT",
-   "div3_hours_ago": 5,
+   "div3_hours_ago": 9,
    "rsi_pivot": 51.2,
-   "vol24": 899326,
-   "price": 0.0026602
+   "vol24": 936473,
+   "price": 0.0026618
   },
   {
    "symbol": "SUIUSDT",
-   "div3_hours_ago": 36,
+   "div3_hours_ago": 40,
    "rsi_pivot": 35.2,
-   "vol24": 688527,
-   "price": 0.9241
+   "vol24": 855546,
+   "price": 0.9327
   },
   {
    "symbol": "APRUSDT",
-   "div3_hours_ago": 13,
+   "div3_hours_ago": 17,
    "rsi_pivot": 46.6,
-   "vol24": 679062,
-   "price": 0.0475
-  },
-  {
-   "symbol": "9BITUSDT",
-   "div3_hours_ago": 15,
-   "rsi_pivot": 17.2,
-   "vol24": 571015,
-   "price": 0.05824
-  },
-  {
-   "symbol": "CASHCATUSDT",
-   "div3_hours_ago": 25,
-   "rsi_pivot": 55.2,
-   "vol24": 527793,
-   "price": 0.09567
-  },
-  {
-   "symbol": "MRVLONUSDT",
-   "div3_hours_ago": 25,
-   "rsi_pivot": 57.8,
-   "vol24": 493686,
-   "price": 243.33
+   "vol24": 700856,
+   "price": 0.04997
   },
   {
    "symbol": "WLDUSDT",
-   "div3_hours_ago": 1,
+   "div3_hours_ago": 5,
    "rsi_pivot": 42.3,
-   "vol24": 484967,
-   "price": 0.4356
+   "vol24": 661283,
+   "price": 0.4398
+  },
+  {
+   "symbol": "CASHCATUSDT",
+   "div3_hours_ago": 29,
+   "rsi_pivot": 55.2,
+   "vol24": 643671,
+   "price": 0.1025
+  },
+  {
+   "symbol": "9BITUSDT",
+   "div3_hours_ago": 19,
+   "rsi_pivot": 17.2,
+   "vol24": 571849,
+   "price": 0.058224
+  },
+  {
+   "symbol": "MRVLONUSDT",
+   "div3_hours_ago": 29,
+   "rsi_pivot": 57.8,
+   "vol24": 467050,
+   "price": 245.89
   },
   {
    "symbol": "DOODUSDT",
-   "div3_hours_ago": 38,
+   "div3_hours_ago": 42,
    "rsi_pivot": 33.8,
-   "vol24": 416135,
-   "price": 0.002038
-  },
-  {
-   "symbol": "EVTUSDT",
-   "div3_hours_ago": 47,
-   "rsi_pivot": 48.3,
-   "vol24": 400889,
-   "price": 0.00037
+   "vol24": 408045,
+   "price": 0.002306
   },
   {
    "symbol": "GALAUSDT",
-   "div3_hours_ago": 12,
+   "div3_hours_ago": 16,
    "rsi_pivot": 39.2,
-   "vol24": 339724,
-   "price": 0.001749
+   "vol24": 323931,
+   "price": 0.001761
   },
   {
    "symbol": "SEDAUSDT",
-   "div3_hours_ago": 31,
+   "div3_hours_ago": 35,
    "rsi_pivot": 43.6,
-   "vol24": 328912,
-   "price": 0.0172
+   "vol24": 323669,
+   "price": 0.01716
   },
   {
    "symbol": "ICPUSDT",
-   "div3_hours_ago": 32,
+   "div3_hours_ago": 36,
    "rsi_pivot": 36.0,
-   "vol24": 299657,
-   "price": 2.573
+   "vol24": 309071,
+   "price": 2.6
   },
   {
    "symbol": "WIFUSDT",
-   "div3_hours_ago": 38,
+   "div3_hours_ago": 42,
    "rsi_pivot": 40.0,
-   "vol24": 257699,
-   "price": 0.1798
+   "vol24": 274105,
+   "price": 0.1797
   },
   {
    "symbol": "BMNRONUSDT",
-   "div3_hours_ago": 5,
+   "div3_hours_ago": 9,
    "rsi_pivot": 37.8,
-   "vol24": 177395,
+   "vol24": 169537,
    "price": 21.57
   },
   {
-   "symbol": "APTUSDT",
-   "div3_hours_ago": 1,
-   "rsi_pivot": 45.4,
-   "vol24": 164245,
-   "price": 0.6856
-  },
-  {
    "symbol": "CRWVONUSDT",
-   "div3_hours_ago": 31,
+   "div3_hours_ago": 35,
    "rsi_pivot": 41.2,
-   "vol24": 162208,
-   "price": 59.31
+   "vol24": 164770,
+   "price": 59.84
   },
   {
    "symbol": "RIOTONUSDT",
-   "div3_hours_ago": 25,
+   "div3_hours_ago": 29,
    "rsi_pivot": 56.8,
-   "vol24": 160314,
-   "price": 13.629
+   "vol24": 161882,
+   "price": 13.573
   },
   {
-   "symbol": "DATAUSDT",
+   "symbol": "APTUSDT",
    "div3_hours_ago": 5,
-   "rsi_pivot": 37.8,
-   "vol24": 159459,
-   "price": 0.1405
+   "rsi_pivot": 45.4,
+   "vol24": 160816,
+   "price": 0.6974
   },
   {
    "symbol": "NSTUSDT",
-   "div3_hours_ago": 31,
+   "div3_hours_ago": 35,
    "rsi_pivot": 46.8,
-   "vol24": 156649,
-   "price": 1.3
-  },
-  {
-   "symbol": "UBERONUSDT",
-   "div3_hours_ago": 1,
-   "rsi_pivot": 43.2,
-   "vol24": 151272,
-   "price": 65.52
-  },
-  {
-   "symbol": "JUPUSDT",
-   "div3_hours_ago": 5,
-   "rsi_pivot": 41.2,
-   "vol24": 146699,
-   "price": 0.2791
+   "vol24": 154587,
+   "price": 1.303
   },
   {
    "symbol": "ACNUSDT",
-   "div3_hours_ago": 21,
+   "div3_hours_ago": 25,
    "rsi_pivot": 29.7,
-   "vol24": 136730,
-   "price": 0.003966
+   "vol24": 152442,
+   "price": 0.003999
+  },
+  {
+   "symbol": "UBERONUSDT",
+   "div3_hours_ago": 5,
+   "rsi_pivot": 43.2,
+   "vol24": 146501,
+   "price": 65.97
   },
   {
    "symbol": "CFGUSDT",
-   "div3_hours_ago": 38,
+   "div3_hours_ago": 42,
    "rsi_pivot": 45.1,
-   "vol24": 135529,
-   "price": 0.1131
+   "vol24": 142914,
+   "price": 0.1119
   },
   {
-   "symbol": "GLMRUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 40.4,
-   "vol24": 126680,
-   "price": 0.008469
+   "symbol": "JUPUSDT",
+   "div3_hours_ago": 9,
+   "rsi_pivot": 41.2,
+   "vol24": 138681,
+   "price": 0.2807
   },
   {
    "symbol": "PUFFERUSDT",
-   "div3_hours_ago": 25,
+   "div3_hours_ago": 29,
    "rsi_pivot": 51.6,
-   "vol24": 117368,
-   "price": 0.0311
+   "vol24": 138417,
+   "price": 0.0362
+  },
+  {
+   "symbol": "DATAUSDT",
+   "div3_hours_ago": 9,
+   "rsi_pivot": 37.8,
+   "vol24": 117457,
+   "price": 0.139
+  },
+  {
+   "symbol": "GLMRUSDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 40.4,
+   "vol24": 113431,
+   "price": 0.008493
   },
   {
    "symbol": "ROSEUSDT",
-   "div3_hours_ago": 31,
+   "div3_hours_ago": 35,
    "rsi_pivot": 45.5,
-   "vol24": 109795,
-   "price": 0.006753
+   "vol24": 112547,
+   "price": 0.006856
   },
   {
    "symbol": "BILLUSDT",
-   "div3_hours_ago": 21,
+   "div3_hours_ago": 25,
    "rsi_pivot": 40.1,
-   "vol24": 109549,
-   "price": 0.006301
-  },
-  {
-   "symbol": "AIAUSDT",
-   "div3_hours_ago": 18,
-   "rsi_pivot": 49.8,
-   "vol24": 102305,
-   "price": 0.07155
+   "vol24": 111361,
+   "price": 0.006217
   },
   {
    "symbol": "TLMUSDT",
-   "div3_hours_ago": 18,
+   "div3_hours_ago": 22,
    "rsi_pivot": 48.6,
-   "vol24": 100950,
-   "price": 0.0012095
+   "vol24": 107117,
+   "price": 0.0012217
   },
   {
    "symbol": "NMRUSDT",
-   "div3_hours_ago": 31,
+   "div3_hours_ago": 35,
    "rsi_pivot": 36.9,
-   "vol24": 99666,
-   "price": 10.004
+   "vol24": 101447,
+   "price": 10.024
   },
   {
    "symbol": "ANIMEUSDT",
-   "div3_hours_ago": 31,
+   "div3_hours_ago": 35,
    "rsi_pivot": 43.6,
-   "vol24": 98087,
-   "price": 0.002935
-  },
-  {
-   "symbol": "TUTUSDT",
-   "div3_hours_ago": 28,
-   "rsi_pivot": 38.6,
-   "vol24": 83824,
-   "price": 0.019499
+   "vol24": 96627,
+   "price": 0.003091
   },
   {
    "symbol": "EGLDUSDT",
-   "div3_hours_ago": 31,
+   "div3_hours_ago": 35,
    "rsi_pivot": 39.6,
-   "vol24": 83596,
-   "price": 3.33
-  },
-  {
-   "symbol": "VPRUSDT",
-   "div3_hours_ago": 1,
-   "rsi_pivot": 48.1,
-   "vol24": 78567,
-   "price": 0.0004815
+   "vol24": 84317,
+   "price": 3.361
   },
   {
    "symbol": "CGPTUSDT",
-   "div3_hours_ago": 15,
-   "rsi_pivot": 33.6,
-   "vol24": 75543,
-   "price": 0.019068
+   "div3_hours_ago": 2,
+   "rsi_pivot": 35.6,
+   "vol24": 83972,
+   "price": 0.019422
+  },
+  {
+   "symbol": "AIAUSDT",
+   "div3_hours_ago": 22,
+   "rsi_pivot": 49.8,
+   "vol24": 81821,
+   "price": 0.07084
   },
   {
    "symbol": "PIPPINUSDT",
-   "div3_hours_ago": 31,
+   "div3_hours_ago": 35,
    "rsi_pivot": 45.6,
-   "vol24": 74513,
-   "price": 0.015462
-  },
-  {
-   "symbol": "BERAUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 45.0,
-   "vol24": 74046,
-   "price": 0.1501
-  },
-  {
-   "symbol": "SWARMSUSDT",
-   "div3_hours_ago": 5,
-   "rsi_pivot": 46.5,
-   "vol24": 72361,
-   "price": 0.006433
+   "vol24": 76134,
+   "price": 0.015602
   },
   {
    "symbol": "ZKCUSDT",
-   "div3_hours_ago": 31,
+   "div3_hours_ago": 35,
    "rsi_pivot": 39.0,
-   "vol24": 72017,
-   "price": 0.03345
+   "vol24": 73836,
+   "price": 0.03365
   },
   {
-   "symbol": "SUSDT",
-   "div3_hours_ago": 23,
-   "rsi_pivot": 40.3,
-   "vol24": 71137,
-   "price": 0.04611
-  },
-  {
-   "symbol": "BABYUSDT",
-   "div3_hours_ago": 47,
-   "rsi_pivot": 51.6,
-   "vol24": 70793,
-   "price": 0.014525
-  },
-  {
-   "symbol": "RIFUSDT",
-   "div3_hours_ago": 5,
-   "rsi_pivot": 47.3,
-   "vol24": 70645,
-   "price": 0.07023
-  },
-  {
-   "symbol": "ARKUSDT",
-   "div3_hours_ago": 4,
-   "rsi_pivot": 37.7,
-   "vol24": 69117,
-   "price": 0.15956
-  },
-  {
-   "symbol": "GMXUSDT",
-   "div3_hours_ago": 10,
-   "rsi_pivot": 47.9,
-   "vol24": 69061,
-   "price": 8.572
-  },
-  {
-   "symbol": "1INCHUSDT",
-   "div3_hours_ago": 5,
-   "rsi_pivot": 43.9,
-   "vol24": 67903,
-   "price": 0.08804
-  },
-  {
-   "symbol": "FLORKUSDT",
-   "div3_hours_ago": 7,
-   "rsi_pivot": 40.9,
-   "vol24": 67792,
-   "price": 0.002532
+   "symbol": "TUTUSDT",
+   "div3_hours_ago": 32,
+   "rsi_pivot": 38.6,
+   "vol24": 73456,
+   "price": 0.019455
   },
   {
    "symbol": "ALTLAYERUSDT",
-   "div3_hours_ago": 38,
+   "div3_hours_ago": 42,
    "rsi_pivot": 34.3,
-   "vol24": 67765,
-   "price": 0.006489
+   "vol24": 72751,
+   "price": 0.006568
   },
   {
-   "symbol": "ALPHUSDT",
-   "div3_hours_ago": 3,
-   "rsi_pivot": 49.1,
-   "vol24": 67413,
-   "price": 0.04783
-  },
-  {
-   "symbol": "SPACEX(PRE)USDT",
-   "div3_hours_ago": 8,
-   "rsi_pivot": 47.7,
-   "vol24": 65353,
-   "price": 147.09
-  },
-  {
-   "symbol": "ACEUSDT",
-   "div3_hours_ago": 33,
-   "rsi_pivot": 39.2,
-   "vol24": 64570,
-   "price": 0.14499
+   "symbol": "VPRUSDT",
+   "div3_hours_ago": 5,
+   "rsi_pivot": 48.1,
+   "vol24": 72706,
+   "price": 0.0004822
   },
   {
    "symbol": "VTHOUSDT",
-   "div3_hours_ago": 5,
+   "div3_hours_ago": 9,
    "rsi_pivot": 49.0,
-   "vol24": 64203,
-   "price": 0.0005796
+   "vol24": 72493,
+   "price": 0.0005894
   },
   {
-   "symbol": "API3USDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 44.2,
-   "vol24": 64051,
-   "price": 0.2617
+   "symbol": "ARKUSDT",
+   "div3_hours_ago": 8,
+   "rsi_pivot": 37.7,
+   "vol24": 72427,
+   "price": 0.16078
   },
   {
-   "symbol": "MYROUSDT",
-   "div3_hours_ago": 44,
-   "rsi_pivot": 48.5,
-   "vol24": 64026,
-   "price": 0.001642
+   "symbol": "RIFUSDT",
+   "div3_hours_ago": 9,
+   "rsi_pivot": 47.3,
+   "vol24": 71190,
+   "price": 0.07064
   },
   {
-   "symbol": "OPENUSDT",
-   "div3_hours_ago": 16,
-   "rsi_pivot": 47.0,
-   "vol24": 63901,
-   "price": 0.0933
-  },
-  {
-   "symbol": "SSVUSDT",
-   "div3_hours_ago": 25,
-   "rsi_pivot": 47.8,
-   "vol24": 63687,
-   "price": 2.444
-  },
-  {
-   "symbol": "0GUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 43.0,
-   "vol24": 63428,
-   "price": 0.2025
-  },
-  {
-   "symbol": "WALUSDT",
-   "div3_hours_ago": 28,
-   "rsi_pivot": 36.7,
-   "vol24": 63175,
-   "price": 0.03443
-  },
-  {
-   "symbol": "SYRUPUSDT",
-   "div3_hours_ago": 32,
-   "rsi_pivot": 40.9,
-   "vol24": 62941,
-   "price": 0.17529
+   "symbol": "GMXUSDT",
+   "div3_hours_ago": 14,
+   "rsi_pivot": 47.9,
+   "vol24": 69714,
+   "price": 8.609
   },
   {
    "symbol": "SEIUSDT",
-   "div3_hours_ago": 11,
+   "div3_hours_ago": 15,
    "rsi_pivot": 40.1,
-   "vol24": 62909,
-   "price": 0.05256
+   "vol24": 69403,
+   "price": 0.05325
   },
   {
-   "symbol": "PIVXUSDT",
-   "div3_hours_ago": 33,
-   "rsi_pivot": 65.3,
-   "vol24": 62203,
-   "price": 0.040224
+   "symbol": "1INCHUSDT",
+   "div3_hours_ago": 9,
+   "rsi_pivot": 43.9,
+   "vol24": 69105,
+   "price": 0.08855
   },
   {
-   "symbol": "WEMIXUSDT",
-   "div3_hours_ago": 46,
-   "rsi_pivot": 42.3,
-   "vol24": 61789,
-   "price": 0.1568
+   "symbol": "ALPHUSDT",
+   "div3_hours_ago": 7,
+   "rsi_pivot": 49.1,
+   "vol24": 68482,
+   "price": 0.04774
   },
   {
-   "symbol": "NOTUSDT",
-   "div3_hours_ago": 38,
-   "rsi_pivot": 38.3,
-   "vol24": 61568,
-   "price": 0.0003777
+   "symbol": "MOOUSDT",
+   "div3_hours_ago": 3,
+   "rsi_pivot": 39.7,
+   "vol24": 68201,
+   "price": 0.001798
   },
   {
-   "symbol": "LUNAUSDT",
-   "div3_hours_ago": 38,
-   "rsi_pivot": 36.9,
-   "vol24": 61547,
-   "price": 0.04248
+   "symbol": "FLORKUSDT",
+   "div3_hours_ago": 11,
+   "rsi_pivot": 40.9,
+   "vol24": 67311,
+   "price": 0.002561
   },
   {
-   "symbol": "DEEPUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 40.7,
-   "vol24": 61489,
-   "price": 0.016627
+   "symbol": "SYRUPUSDT",
+   "div3_hours_ago": 36,
+   "rsi_pivot": 40.9,
+   "vol24": 66225,
+   "price": 0.17438
   },
   {
-   "symbol": "ETHWUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 35.5,
-   "vol24": 61372,
-   "price": 0.2251
+   "symbol": "SPACEX(PRE)USDT",
+   "div3_hours_ago": 12,
+   "rsi_pivot": 47.7,
+   "vol24": 65999,
+   "price": 148.2
   },
   {
    "symbol": "JTOUSDT",
-   "div3_hours_ago": 31,
+   "div3_hours_ago": 35,
    "rsi_pivot": 48.1,
-   "vol24": 60831,
-   "price": 0.4318
+   "vol24": 64995,
+   "price": 0.4341
+  },
+  {
+   "symbol": "SSVUSDT",
+   "div3_hours_ago": 29,
+   "rsi_pivot": 47.8,
+   "vol24": 64396,
+   "price": 2.452
+  },
+  {
+   "symbol": "SWARMSUSDT",
+   "div3_hours_ago": 9,
+   "rsi_pivot": 46.5,
+   "vol24": 64372,
+   "price": 0.006444
+  },
+  {
+   "symbol": "SUSDT",
+   "div3_hours_ago": 27,
+   "rsi_pivot": 40.3,
+   "vol24": 64310,
+   "price": 0.04618
+  },
+  {
+   "symbol": "PIVXUSDT",
+   "div3_hours_ago": 37,
+   "rsi_pivot": 65.3,
+   "vol24": 64289,
+   "price": 0.04051
+  },
+  {
+   "symbol": "OPENUSDT",
+   "div3_hours_ago": 20,
+   "rsi_pivot": 47.0,
+   "vol24": 64128,
+   "price": 0.09379
+  },
+  {
+   "symbol": "NOTUSDT",
+   "div3_hours_ago": 42,
+   "rsi_pivot": 38.3,
+   "vol24": 63439,
+   "price": 0.0003806
+  },
+  {
+   "symbol": "API3USDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 44.2,
+   "vol24": 63075,
+   "price": 0.2598
   },
   {
    "symbol": "STONKBROKERUSDT",
-   "div3_hours_ago": 4,
-   "rsi_pivot": 30.1,
-   "vol24": 60467,
-   "price": 0.005283
-  },
-  {
-   "symbol": "WILDUSDT",
-   "div3_hours_ago": 35,
-   "rsi_pivot": 44.5,
-   "vol24": 60306,
-   "price": 0.01053
-  },
-  {
-   "symbol": "MAGICUSDT",
-   "div3_hours_ago": 32,
-   "rsi_pivot": 33.7,
-   "vol24": 60181,
-   "price": 0.08362
-  },
-  {
-   "symbol": "FLOWUSDT",
-   "div3_hours_ago": 5,
-   "rsi_pivot": 44.3,
-   "vol24": 60019,
-   "price": 0.02652
-  },
-  {
-   "symbol": "BLURUSDT",
-   "div3_hours_ago": 16,
-   "rsi_pivot": 45.4,
-   "vol24": 59808,
-   "price": 0.00733
-  },
-  {
-   "symbol": "GRIFFAINUSDT",
-   "div3_hours_ago": 3,
-   "rsi_pivot": 46.9,
-   "vol24": 59564,
-   "price": 0.013788
-  },
-  {
-   "symbol": "ALPINEUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 49.8,
-   "vol24": 58765,
-   "price": 0.3082
-  },
-  {
-   "symbol": "TLOSUSDT",
-   "div3_hours_ago": 47,
-   "rsi_pivot": 33.3,
-   "vol24": 58330,
-   "price": 0.01623
-  },
-  {
-   "symbol": "RAREUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 45.4,
-   "vol24": 58128,
-   "price": 0.01255
-  },
-  {
-   "symbol": "COTIUSDT",
-   "div3_hours_ago": 28,
-   "rsi_pivot": 42.3,
-   "vol24": 57742,
-   "price": 0.010478
-  },
-  {
-   "symbol": "SLPUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 48.2,
-   "vol24": 57549,
-   "price": 0.0005289
-  },
-  {
-   "symbol": "OVRUSDT",
-   "div3_hours_ago": 33,
-   "rsi_pivot": 25.3,
-   "vol24": 57290,
-   "price": 0.03086
-  },
-  {
-   "symbol": "MBXUSDT",
-   "div3_hours_ago": 29,
-   "rsi_pivot": 33.1,
-   "vol24": 56737,
-   "price": 0.02522
-  },
-  {
-   "symbol": "XAIUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 45.6,
-   "vol24": 56657,
-   "price": 0.007861
-  },
-  {
-   "symbol": "ZRXUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 45.5,
-   "vol24": 56605,
-   "price": 0.10463
-  },
-  {
-   "symbol": "PSGUSDT",
    "div3_hours_ago": 8,
-   "rsi_pivot": 37.6,
-   "vol24": 56600,
-   "price": 0.4139
+   "rsi_pivot": 30.1,
+   "vol24": 62347,
+   "price": 0.00581
+  },
+  {
+   "symbol": "ACEUSDT",
+   "div3_hours_ago": 37,
+   "rsi_pivot": 39.2,
+   "vol24": 62248,
+   "price": 0.14568
+  },
+  {
+   "symbol": "ETHWUSDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 35.5,
+   "vol24": 62214,
+   "price": 0.2258
+  },
+  {
+   "symbol": "WALUSDT",
+   "div3_hours_ago": 32,
+   "rsi_pivot": 36.7,
+   "vol24": 62138,
+   "price": 0.03417
+  },
+  {
+   "symbol": "LUNAUSDT",
+   "div3_hours_ago": 42,
+   "rsi_pivot": 36.9,
+   "vol24": 61771,
+   "price": 0.04277
   },
   {
    "symbol": "CATIUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 40.8,
-   "vol24": 56495,
-   "price": 0.04303
-  },
-  {
-   "symbol": "IDUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 45.8,
-   "vol24": 56291,
-   "price": 0.0307
-  },
-  {
-   "symbol": "BERTUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 38.3,
-   "vol24": 56277,
-   "price": 0.011535
-  },
-  {
-   "symbol": "WAXLUSDT",
-   "div3_hours_ago": 12,
-   "rsi_pivot": 43.5,
-   "vol24": 56256,
-   "price": 0.0489
-  },
-  {
-   "symbol": "ENJUSDT",
-   "div3_hours_ago": 36,
-   "rsi_pivot": 36.4,
-   "vol24": 56115,
-   "price": 0.0256
-  },
-  {
-   "symbol": "AVAILUSDT",
    "div3_hours_ago": 35,
-   "rsi_pivot": 41.0,
-   "vol24": 56003,
-   "price": 0.002419
+   "rsi_pivot": 40.8,
+   "vol24": 61424,
+   "price": 0.04413
   },
   {
-   "symbol": "CHRUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 40.3,
-   "vol24": 55982,
-   "price": 0.01766
+   "symbol": "0GUSDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 43.0,
+   "vol24": 61208,
+   "price": 0.1994
   },
   {
-   "symbol": "GMUSDT",
-   "div3_hours_ago": 4,
-   "rsi_pivot": 38.1,
-   "vol24": 55797,
-   "price": 0.00043
+   "symbol": "DEEPUSDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 40.7,
+   "vol24": 60996,
+   "price": 0.016978
   },
   {
-   "symbol": "GOATUSDT",
-   "div3_hours_ago": 5,
-   "rsi_pivot": 39.9,
-   "vol24": 55457,
-   "price": 0.01402
+   "symbol": "BLURUSDT",
+   "div3_hours_ago": 20,
+   "rsi_pivot": 45.4,
+   "vol24": 60900,
+   "price": 0.0073
   },
   {
-   "symbol": "UMAUSDT",
-   "div3_hours_ago": 12,
+   "symbol": "MAGICUSDT",
+   "div3_hours_ago": 36,
+   "rsi_pivot": 33.7,
+   "vol24": 60426,
+   "price": 0.08299
+  },
+  {
+   "symbol": "WILDUSDT",
+   "div3_hours_ago": 39,
+   "rsi_pivot": 44.5,
+   "vol24": 60133,
+   "price": 0.01064
+  },
+  {
+   "symbol": "GRIFFAINUSDT",
+   "div3_hours_ago": 7,
+   "rsi_pivot": 46.9,
+   "vol24": 59562,
+   "price": 0.013711
+  },
+  {
+   "symbol": "FLOWUSDT",
+   "div3_hours_ago": 9,
    "rsi_pivot": 44.3,
-   "vol24": 55450,
-   "price": 0.3494
+   "vol24": 59170,
+   "price": 0.02653
   },
   {
-   "symbol": "SUSHIUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 48.4,
-   "vol24": 55368,
-   "price": 0.2065
+   "symbol": "RAREUSDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 45.4,
+   "vol24": 58950,
+   "price": 0.01281
+  },
+  {
+   "symbol": "ALPINEUSDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 49.8,
+   "vol24": 58485,
+   "price": 0.3089
   },
   {
    "symbol": "PAYAIUSDT",
-   "div3_hours_ago": 20,
+   "div3_hours_ago": 24,
    "rsi_pivot": 37.4,
-   "vol24": 55117,
-   "price": 0.00656
+   "vol24": 58370,
+   "price": 0.00654
   },
   {
-   "symbol": "CTKUSDT",
-   "div3_hours_ago": 1,
-   "rsi_pivot": 35.4,
-   "vol24": 55100,
-   "price": 0.09224
+   "symbol": "BERAUSDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 45.0,
+   "vol24": 58231,
+   "price": 0.1512
   },
   {
-   "symbol": "KNCUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 43.1,
-   "vol24": 54951,
-   "price": 0.11943
+   "symbol": "PSGUSDT",
+   "div3_hours_ago": 12,
+   "rsi_pivot": 37.6,
+   "vol24": 58215,
+   "price": 0.4145
+  },
+  {
+   "symbol": "MBXUSDT",
+   "div3_hours_ago": 33,
+   "rsi_pivot": 33.1,
+   "vol24": 57384,
+   "price": 0.02512
+  },
+  {
+   "symbol": "WAXLUSDT",
+   "div3_hours_ago": 16,
+   "rsi_pivot": 43.5,
+   "vol24": 57040,
+   "price": 0.04903
+  },
+  {
+   "symbol": "XAIUSDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 45.6,
+   "vol24": 56977,
+   "price": 0.007852
+  },
+  {
+   "symbol": "GOATUSDT",
+   "div3_hours_ago": 9,
+   "rsi_pivot": 39.9,
+   "vol24": 56512,
+   "price": 0.01407
+  },
+  {
+   "symbol": "SLPUSDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 48.2,
+   "vol24": 56373,
+   "price": 0.0005335
+  },
+  {
+   "symbol": "OVRUSDT",
+   "div3_hours_ago": 37,
+   "rsi_pivot": 25.3,
+   "vol24": 56209,
+   "price": 0.03095
+  },
+  {
+   "symbol": "GMUSDT",
+   "div3_hours_ago": 8,
+   "rsi_pivot": 38.1,
+   "vol24": 56199,
+   "price": 0.000385
+  },
+  {
+   "symbol": "CHRUSDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 40.3,
+   "vol24": 56184,
+   "price": 0.01786
+  },
+  {
+   "symbol": "ENJUSDT",
+   "div3_hours_ago": 40,
+   "rsi_pivot": 36.4,
+   "vol24": 56169,
+   "price": 0.02575
+  },
+  {
+   "symbol": "IDUSDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 45.8,
+   "vol24": 55877,
+   "price": 0.03079
+  },
+  {
+   "symbol": "SUSHIUSDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 48.4,
+   "vol24": 55875,
+   "price": 0.2071
+  },
+  {
+   "symbol": "UMAUSDT",
+   "div3_hours_ago": 16,
+   "rsi_pivot": 44.3,
+   "vol24": 55794,
+   "price": 0.3521
+  },
+  {
+   "symbol": "AVAILUSDT",
+   "div3_hours_ago": 39,
+   "rsi_pivot": 41.0,
+   "vol24": 55631,
+   "price": 0.002429
+  },
+  {
+   "symbol": "ZRXUSDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 45.5,
+   "vol24": 55623,
+   "price": 0.10503
+  },
+  {
+   "symbol": "COTIUSDT",
+   "div3_hours_ago": 32,
+   "rsi_pivot": 42.3,
+   "vol24": 55351,
+   "price": 0.010591
   },
   {
    "symbol": "SKRUSDT",
-   "div3_hours_ago": 31,
+   "div3_hours_ago": 35,
    "rsi_pivot": 40.6,
-   "vol24": 54470,
-   "price": 0.014221
+   "vol24": 55287,
+   "price": 0.014264
+  },
+  {
+   "symbol": "KNCUSDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 43.1,
+   "vol24": 55233,
+   "price": 0.12014
+  },
+  {
+   "symbol": "CTKUSDT",
+   "div3_hours_ago": 5,
+   "rsi_pivot": 35.4,
+   "vol24": 54492,
+   "price": 0.09399
   },
   {
    "symbol": "ASRUSDT",
-   "div3_hours_ago": 31,
+   "div3_hours_ago": 35,
    "rsi_pivot": 45.3,
-   "vol24": 53798,
-   "price": 0.7549
-  },
-  {
-   "symbol": "CITYUSDT",
-   "div3_hours_ago": 25,
-   "rsi_pivot": 41.6,
-   "vol24": 53308,
-   "price": 0.2859
+   "vol24": 54215,
+   "price": 0.7555
   },
   {
    "symbol": "CETUSUSDT",
-   "div3_hours_ago": 31,
+   "div3_hours_ago": 35,
    "rsi_pivot": 45.1,
-   "vol24": 53238,
-   "price": 0.02165
+   "vol24": 53484,
+   "price": 0.02177
   },
   {
    "symbol": "GPUSDT",
-   "div3_hours_ago": 22,
+   "div3_hours_ago": 26,
    "rsi_pivot": 45.2,
-   "vol24": 53149,
-   "price": 0.001232
+   "vol24": 53148,
+   "price": 0.001262
   },
   {
    "symbol": "JUVUSDT",
-   "div3_hours_ago": 17,
+   "div3_hours_ago": 21,
    "rsi_pivot": 43.1,
-   "vol24": 53001,
-   "price": 0.2825
+   "vol24": 53022,
+   "price": 0.2835
   },
   {
-   "symbol": "LQTYUSDT",
-   "div3_hours_ago": 31,
-   "rsi_pivot": 43.7,
-   "vol24": 52030,
-   "price": 0.1965
+   "symbol": "CITYUSDT",
+   "div3_hours_ago": 29,
+   "rsi_pivot": 41.6,
+   "vol24": 52742,
+   "price": 0.2865
   },
   {
    "symbol": "RNBWUSDT",
-   "div3_hours_ago": 25,
+   "div3_hours_ago": 29,
    "rsi_pivot": 20.0,
-   "vol24": 51769,
-   "price": 0.01595
+   "vol24": 52522,
+   "price": 0.01594
+  },
+  {
+   "symbol": "BERTUSDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 38.3,
+   "vol24": 52466,
+   "price": 0.011616
   },
   {
    "symbol": "COWUSDT",
-   "div3_hours_ago": 31,
+   "div3_hours_ago": 35,
    "rsi_pivot": 44.9,
-   "vol24": 51023,
-   "price": 0.1267
+   "vol24": 51183,
+   "price": 0.1269
   },
   {
    "symbol": "RSRUSDT",
-   "div3_hours_ago": 32,
+   "div3_hours_ago": 36,
    "rsi_pivot": 39.7,
-   "vol24": 50380,
-   "price": 0.001593
+   "vol24": 51011,
+   "price": 0.00161
   },
   {
    "symbol": "AIXBTUSDT",
-   "div3_hours_ago": 31,
+   "div3_hours_ago": 35,
    "rsi_pivot": 45.8,
-   "vol24": 50313,
-   "price": 0.01848
+   "vol24": 50380,
+   "price": 0.01856
+  },
+  {
+   "symbol": "LQTYUSDT",
+   "div3_hours_ago": 35,
+   "rsi_pivot": 43.7,
+   "vol24": 50265,
+   "price": 0.1989
   }
  ]
 }
