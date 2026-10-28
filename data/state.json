@@ -1,5 +1,5 @@
 {
- "equity_eur": 483.25,
+ "equity_eur": 481.15,
  "cash_eur": 279.48,
  "positions": {
   "PYTHUSDT": {
@@ -267,5 +267,5 @@
   }
  ],
  "lessons": [],
- "cycles": 217
+ "cycles": 218
 }
