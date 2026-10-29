@@ -1,5 +1,5 @@
 {
- "equity_eur": 485.57,
+ "equity_eur": 483.96,
  "cash_eur": 276.18,
  "positions": {
   "SEIUSDT": {
@@ -278,5 +278,5 @@
   }
  ],
  "lessons": [],
- "cycles": 219
+ "cycles": 220
 }
