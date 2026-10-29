@@ -1,6 +1,6 @@
 ```
-Ciclo 222 · 2026-10-29 14:09 UTC · 1366 pares · 94s
-Equity paper: 479.87 € · caja 276.18 € · abiertas 3
-Vigilancia (DIV3 <48h): 40 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: FIL(42h), FOXSY(46h), WLD(42h), APT(42h), DATA(46h), JUP(46h), BMNRON(46h), AVA(0h), UBERON(42h), SOXSON(14h), NFLXON(16h), EPIC(21h), RLC(6h), STONKBROKER(45h), GRIFFAIN(44h)
+Ciclo 223 · 2026-10-29 20:14 UTC · 1366 pares · 94s
+Equity paper: 477.97 € · caja 276.18 € · abiertas 3
+Vigilancia (DIV3 <48h): 21 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: NVDAX(0h), AVA(6h), NVDAON(1h), SOXSON(20h), NFLXON(22h), EPIC(27h), RLC(12h), CGPT(45h), FF(22h), PAYAI(33h), FIRO(39h), MOO(46h), DMTR(20h), QUICK(36h), GROK(38h)
 ```
