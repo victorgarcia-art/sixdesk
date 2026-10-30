@@ -1,5 +1,5 @@
 {
- "equity_eur": 468.89,
+ "equity_eur": 470.22,
  "cash_eur": 403.74,
  "positions": {
   "VTHOUSDT": {
@@ -280,5 +280,5 @@
   }
  ],
  "lessons": [],
- "cycles": 224
+ "cycles": 225
 }
