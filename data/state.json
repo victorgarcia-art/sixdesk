@@ -1,18 +1,7 @@
 {
- "equity_eur": 470.92,
- "cash_eur": 403.74,
- "positions": {
-  "VTHOUSDT": {
-   "qty": 118610.26126392584,
-   "entry_price": 0.0005796,
-   "cost_eur": 68.93,
-   "stop_price": 0.000539028,
-   "target_price": 0.00066654,
-   "opened_ts": 1793135750536,
-   "thesis": "triple divergencia alcista hace 5h + ruptura por compresión con volumen 2.61σ",
-   "einstein": "sin LLM: regla pura"
-  }
- },
+ "equity_eur": 471.7,
+ "cash_eur": 471.7,
+ "positions": {},
  "closed": [
   {
    "symbol": "OWLUSDT",
@@ -277,8 +266,19 @@
    "opened_ts": 1793221162315,
    "closed_ts": 1793321421392,
    "thesis": "triple divergencia alcista hace 24h + ruptura por compresión con volumen 5.68σ"
+  },
+  {
+   "symbol": "VTHOUSDT",
+   "reason": "caducidad",
+   "entry_price": 0.0005796,
+   "exit_price": 0.0005745,
+   "pnl_eur": -0.97,
+   "pnl_pct": -1.4,
+   "opened_ts": 1793135750536,
+   "closed_ts": 1793403583594,
+   "thesis": "triple divergencia alcista hace 5h + ruptura por compresión con volumen 2.61σ"
   }
  ],
  "lessons": [],
- "cycles": 227
+ "cycles": 228
 }
