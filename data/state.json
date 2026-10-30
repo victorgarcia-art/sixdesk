@@ -1,17 +1,7 @@
 {
- "equity_eur": 477.97,
- "cash_eur": 276.18,
+ "equity_eur": 468.89,
+ "cash_eur": 403.74,
  "positions": {
-  "SEIUSDT": {
-   "qty": 1298.350628614875,
-   "entry_price": 0.05261,
-   "cost_eur": 68.48,
-   "stop_price": 0.04892729999999999,
-   "target_price": 0.06050149999999999,
-   "opened_ts": 1793118508916,
-   "thesis": "triple divergencia alcista hace 6h + ruptura por compresión con volumen 2.32σ",
-   "einstein": "sin LLM: regla pura"
-  },
   "VTHOUSDT": {
    "qty": 118610.26126392584,
    "entry_price": 0.0005796,
@@ -20,16 +10,6 @@
    "target_price": 0.00066654,
    "opened_ts": 1793135750536,
    "thesis": "triple divergencia alcista hace 5h + ruptura por compresión con volumen 2.61σ",
-   "einstein": "sin LLM: regla pura"
-  },
-  "APTUSDT": {
-   "qty": 97.3999939688794,
-   "entry_price": 0.7106,
-   "cost_eur": 69.39,
-   "stop_price": 0.660858,
-   "target_price": 0.81719,
-   "opened_ts": 1793221162315,
-   "thesis": "triple divergencia alcista hace 24h + ruptura por compresión con volumen 5.68σ",
    "einstein": "sin LLM: regla pura"
   }
  },
@@ -275,8 +255,30 @@
    "opened_ts": 1792954750636,
    "closed_ts": 1793221161532,
    "thesis": "triple divergencia alcista hace 22h + ruptura por compresión con volumen 0.9σ"
+  },
+  {
+   "symbol": "SEIUSDT",
+   "reason": "stop",
+   "entry_price": 0.05261,
+   "exit_price": 0.04892729999999999,
+   "pnl_eur": -5.12,
+   "pnl_pct": -7.48,
+   "opened_ts": 1793118508916,
+   "closed_ts": 1793321421392,
+   "thesis": "triple divergencia alcista hace 6h + ruptura por compresión con volumen 2.32σ"
+  },
+  {
+   "symbol": "APTUSDT",
+   "reason": "stop",
+   "entry_price": 0.7106,
+   "exit_price": 0.660858,
+   "pnl_eur": -5.19,
+   "pnl_pct": -7.48,
+   "opened_ts": 1793221162315,
+   "closed_ts": 1793321421392,
+   "thesis": "triple divergencia alcista hace 24h + ruptura por compresión con volumen 5.68σ"
   }
  ],
  "lessons": [],
- "cycles": 223
+ "cycles": 224
 }
