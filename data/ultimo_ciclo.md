@@ -1,6 +1,6 @@
 ```
-Ciclo 229 · 2026-10-31 05:25 UTC · 1359 pares · 93s
+Ciclo 230 · 2026-10-31 12:13 UTC · 1359 pares · 93s
 Equity paper: 471.70 € · caja 471.70 € · abiertas 0
-Vigilancia (DIV3 <48h): 32 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: CROC(31h), JGGL(22h), ATLA(5h), AVA(39h), GOOGLON(4h), NVDAON(34h), NETON(21h), UCN(4h), NOWON(4h), ENPHON(21h), UNGON(10h), VVV(22h), RLC(45h), STBL(5h), ZCAT(5h)
+Vigilancia (DIV3 <48h): 35 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: 9BIT(4h), CROC(38h), JGGL(29h), ATLA(12h), AVA(46h), GOOGLON(11h), NVDAON(41h), UCN(11h), NOWON(11h), NETON(28h), UNGON(17h), ENPHON(28h), VVV(29h), FOLKS(3h), STBL(12h)
 ```
