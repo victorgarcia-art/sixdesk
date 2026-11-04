@@ -1,6 +1,6 @@
 ```
-Ciclo 246 · 2026-11-04 17:07 UTC · 1345 pares · 93s
+Ciclo 247 · 2026-11-04 23:35 UTC · 1345 pares · 92s
 Equity paper: 471.70 € · caja 471.70 € · abiertas 0
-Vigilancia (DIV3 <48h): 116 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: ENA(27h), DGAI(33h), HYPE(8h), TAO(8h), SUI(8h), TIA(3h), WFI(22h), BTW(24h), CRV(8h), UAI(12h), ONDO(8h), RDDTON(45h), PROPS(8h), HBAR(8h), LITEON(19h)
+Vigilancia (DIV3 <48h): 118 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: ENA(33h), DGAI(39h), HYPE(14h), TAO(14h), SUI(14h), TIA(9h), WFI(28h), BTW(30h), CRV(14h), UAI(18h), ONDO(14h), HBAR(14h), WIF(14h), PROPS(14h), LITEON(25h)
 ```
