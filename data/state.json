@@ -1,5 +1,5 @@
 {
- "equity_eur": 471.35,
+ "equity_eur": 471.65,
  "cash_eur": 404.31,
  "positions": {
   "XPINUSDT": {
@@ -291,5 +291,5 @@
   }
  ],
  "lessons": [],
- "cycles": 268
+ "cycles": 269
 }
