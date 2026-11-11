@@ -1,6 +1,6 @@
 ```
-Ciclo 269 · 2026-11-10 22:19 UTC · 1331 pares · 92s
-Equity paper: 471.65 € · caja 404.31 € · abiertas 1
-Vigilancia (DIV3 <48h): 64 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: XMR(30h), BCH(33h), ZRO(24h), DUST(24h), WFI(37h), NPC(28h), NAORIS(43h), ACN(39h), REGNON(25h), WDCON(39h), PDDON(0h), PLAY(11h), TEL(24h), OIL(USOON)(6h), ALIGN(27h)
+Ciclo 270 · 2026-11-11 02:44 UTC · 1333 pares · 91s
+Equity paper: 472.50 € · caja 404.31 € · abiertas 1
+Vigilancia (DIV3 <48h): 75 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: AERO(3h), BCH(37h), XMR(34h), ZRO(28h), ASTER(1h), DUST(28h), WFI(41h), NPC(32h), MSTRON(3h), ACN(43h), REGNON(29h), WDCON(43h), PDDON(4h), NAORIS(47h), PLAY(15h)
 ```
