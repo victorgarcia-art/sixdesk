@@ -1,6 +1,7 @@
 ```
-Ciclo 271 · 2026-11-11 10:45 UTC · 1333 pares · 92s
-Equity paper: 474.14 € · caja 404.31 € · abiertas 1
-Vigilancia (DIV3 <48h): 64 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: AERO(11h), BCH(45h), ZRO(36h), ASTER(9h), XMR(42h), DUST(36h), NPC(40h), MSTRON(11h), REGNON(37h), PDDON(3h), BLUAI(44h), ALIGN(39h), AVV(14h), LAB(10h), PLAY(23h)
+Ciclo 272 · 2026-11-11 18:38 UTC · 1332 pares · 92s
+Equity paper: 473.76 € · caja 473.76 € · abiertas 0
+Vigilancia (DIV3 <48h): 56 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+⏹ XPINUSDT cerrada por caducidad +3.06% (+2.06 €)
+Vigilancia: ZRO(44h), AERO(19h), ASTER(17h), DOT(5h), MSTRON(19h), REGNON(45h), PDDON(11h), ALIGN(47h), AVV(22h), LAB(18h), PLAY(31h), BEAT(31h), DUST(44h), OIL(USOON)(26h), MAGMA(28h)
 ```
