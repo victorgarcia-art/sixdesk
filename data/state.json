@@ -1,5 +1,5 @@
 {
- "equity_eur": 473.58,
+ "equity_eur": 473.09,
  "cash_eur": 406.08,
  "positions": {
   "TBKUSDT": {
@@ -302,5 +302,5 @@
   }
  ],
  "lessons": [],
- "cycles": 276
+ "cycles": 277
 }
