@@ -29,3 +29,4 @@
 {"ts": 1793135750536, "symbol": "VTHOUSDT", "price": 0.0005796, "vol24": 64203, "size_eur": 68.93, "stop": 0.00053903, "target": 0.00066654, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}
 {"ts": 1793221162315, "symbol": "APTUSDT", "price": 0.7106, "vol24": 206992, "size_eur": 69.39, "stop": 0.660858, "target": 0.81719, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}
 {"ts": 1794150169242, "symbol": "XPINUSDT", "price": 0.0006944, "vol24": 104600, "size_eur": 67.39, "stop": 0.00064579, "target": 0.00079856, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}
+{"ts": 1794528637569, "symbol": "TBKUSDT", "price": 0.193, "vol24": 52839, "size_eur": 67.68, "stop": 0.17949, "target": 0.22195, "decision": "approve", "conviction": null, "reason": "sin LLM: regla pura", "mode": "paper"}

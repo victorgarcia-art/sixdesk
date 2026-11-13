@@ -1,7 +1,18 @@
 {
- "equity_eur": 473.76,
- "cash_eur": 473.76,
- "positions": {},
+ "equity_eur": 473.58,
+ "cash_eur": 406.08,
+ "positions": {
+  "TBKUSDT": {
+   "qty": 349.76182383419683,
+   "entry_price": 0.193,
+   "cost_eur": 67.68,
+   "stop_price": 0.17948999999999998,
+   "target_price": 0.22194999999999998,
+   "opened_ts": 1794528637569,
+   "thesis": "triple divergencia alcista hace 11h + ruptura por compresión con volumen 13.65σ",
+   "einstein": "sin LLM: regla pura"
+  }
+ },
  "closed": [
   {
    "symbol": "OWLUSDT",
@@ -291,5 +302,5 @@
   }
  ],
  "lessons": [],
- "cycles": 275
+ "cycles": 276
 }
