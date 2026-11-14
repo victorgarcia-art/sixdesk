@@ -1,6 +1,6 @@
 ```
-Ciclo 281 · 2026-11-14 10:15 UTC · 1311 pares · 90s
-Equity paper: 471.17 € · caja 406.08 € · abiertas 1
-Vigilancia (DIV3 <48h): 58 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: FOXSY(39h), JCT(12h), LALA(12h), STRK(24h), IDOL(34h), QNT(19h), IONQON(24h), ARB(2h), NOKON(38h), PLUGON(4h), ISRGON(27h), FOLKS(37h), SPX(10h), VIRTUAL(22h), GHUB(6h)
+Ciclo 282 · 2026-11-14 17:00 UTC · 1310 pares · 89s
+Equity paper: 471.70 € · caja 406.08 € · abiertas 1
+Vigilancia (DIV3 <48h): 61 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: FOXSY(46h), LALA(18h), JCT(18h), STRK(30h), ARB(8h), IDOL(40h), QNT(26h), IONQON(31h), ISRGON(33h), NOKON(44h), PLUGON(10h), SPX(17h), FOLKS(43h), APT(8h), VIRTUAL(28h)
 ```
