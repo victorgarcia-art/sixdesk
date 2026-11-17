@@ -1,6 +1,6 @@
 ```
-Ciclo 291 · 2026-11-17 03:43 UTC · 1311 pares · 90s
+Ciclo 292 · 2026-11-17 13:09 UTC · 1309 pares · 89s
 Equity paper: 473.34 € · caja 473.34 € · abiertas 0
-Vigilancia (DIV3 <48h): 55 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: MTO(40h), LALA(45h), SLVON(9h), SEDA(47h), STRK(31h), CIENON(23h), ADION(47h), AVAX(6h), AGT(19h), FOLKS(38h), RENDER(8h), XDC(37h), RITUAL(12h), GANG(43h), FUSE(15h)
+Vigilancia (DIV3 <48h): 56 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: DUST(4h), AVAX(16h), STRK(41h), SLVON(19h), CRDOON(8h), DRAMON(8h), CIENON(33h), AGT(29h), NPC(9h), HANDL(15h), CNPY(8h), RENDER(18h), LAB(8h), XCX(4h), ALIGN(13h)
 ```
