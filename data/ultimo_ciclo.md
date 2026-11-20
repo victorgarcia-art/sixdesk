@@ -1,6 +1,6 @@
 ```
-Ciclo 299 · 2026-11-19 21:25 UTC · 1294 pares · 88s
+Ciclo 300 · 2026-11-20 03:01 UTC · 1294 pares · 88s
 Equity paper: 473.34 € · caja 473.34 € · abiertas 0
-Vigilancia (DIV3 <48h): 36 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: PUMP(31h), ATLA(23h), URAON(6h), ETNON(38h), EQIXON(38h), BIDUON(34h), HIMSON(18h), AMZNON(47h), BAON(44h), CPNGON(25h), RGTION(18h), NOKON(18h), CEGON(18h), ALIGN(23h), NPC(35h)
+Vigilancia (DIV3 <48h): 41 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: PUMP(37h), ATLA(29h), SPCM(4h), ETNON(44h), EQIXON(44h), AMGNON(5h), BIDUON(40h), CPNGON(31h), URAON(12h), STRCON(1h), HIMSON(24h), CEGON(24h), ACHRON(4h), RGTION(24h), NOKON(24h)
 ```
