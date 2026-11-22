@@ -1,6 +1,6 @@
 ```
-Ciclo 308 · 2026-11-22 11:11 UTC · 1288 pares · 89s
+Ciclo 309 · 2026-11-22 19:29 UTC · 1270 pares · 87s
 Equity paper: 473.34 € · caja 473.34 € · abiertas 0
-Vigilancia (DIV3 <48h): 59 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: GOLD(PAXG)(25h), ASTER(37h), FOXSY(32h), MEY(36h), 9BIT(4h), SHIB(23h), MSTRON(23h), INTCON(25h), PENDLE(23h), AALON(44h), JPMON(32h), MAON(31h), NOWON(46h), UBERON(33h), NVOON(40h)
+Vigilancia (DIV3 <48h): 56 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: GOLD(PAXG)(33h), FOXSY(40h), MEY(44h), ASTER(45h), 9BIT(12h), SHIB(31h), MSTRON(31h), INTCON(33h), UBERON(41h), MAON(39h), REGNON(8h), JPMON(40h), PENDLE(31h), PBRON(47h), PLTRON(41h)
 ```
