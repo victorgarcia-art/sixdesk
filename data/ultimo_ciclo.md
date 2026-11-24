@@ -1,6 +1,6 @@
 ```
-Ciclo 313 · 2026-11-24 05:56 UTC · 1270 pares · 87s
+Ciclo 314 · 2026-11-24 17:31 UTC · 1269 pares · 88s
 Equity paper: 473.34 € · caja 473.34 € · abiertas 0
-Vigilancia (DIV3 <48h): 17 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
-Vigilancia: DOS(23h), BRL(29h), 9BIT(46h), REGNON(42h), NFLXON(24h), AXPON(29h), ACN(40h), LUNC(30h), ANVL(16h), BIRB(10h), M(28h), MAT(41h), BASED(42h), NYM(29h), CORN(42h)
+Vigilancia (DIV3 <48h): 15 · Setups DIV3→ruptura: 0 · aprobados 0 · rechazados 0
+Vigilancia: DOS(35h), LALA(11h), MTX(5h), BRL(41h), HIMSON(8h), AXPON(41h), NFLXON(36h), LUNC(42h), PMT(3h), BIRB(22h), ANVL(10h), NYM(41h), JAGENT(6h), M(40h), SPK(41h)
 ```
